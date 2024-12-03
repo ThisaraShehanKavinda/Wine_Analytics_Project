@@ -13,7 +13,9 @@ for file in csv_files:
     df = pd.read_csv(file_path)
     data_list.append(df)
 
-print(data_list[0])
+# Concatenate the files into a single DataFrame
+wine_df = pd.concat(data_list, ignore_index=True)
+
 
 
 
