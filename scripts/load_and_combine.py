@@ -15,7 +15,6 @@ for file in csv_files:
 
 # Concatenate the files into a single DataFrame
 wine_df = pd.concat(data_list, ignore_index=True)
-print(wine_df)
 
 # Display the dataframe structure
 wine_df.info()
@@ -28,6 +27,7 @@ print(duplicates)
 #check for null values
 print(wine_df.isnull().sum())
 
+
 # Split the 'Region' column by '/' and create new columns
 wine_df['Country'] = wine_df['Region'].str.split('/').str[0].str.strip()  # First part as 'Country'
 wine_df['Country_Region'] = wine_df['Region'].str.split('/').str[1].str.strip()  # Second part as 'Country_Region'
@@ -37,9 +37,9 @@ print(wine_df[['Region', 'Country', 'Country_Region']].head())
 print(wine_df)
 
 
-
 # Drop the 'Grapes' column from the dataframe
 wine_df = wine_df.drop(columns=['Grapes'])
+print(wine_df)
 
 # Display the updated dataframe structure
 wine_df.info()
