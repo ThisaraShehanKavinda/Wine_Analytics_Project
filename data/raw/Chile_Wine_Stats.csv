@@ -1,0 +1,178 @@
+,Name,Rating,Number of Ratings,Price,Region,Winery,Wine style,Alcohol content,Grapes,Food pairings,Bold,Tannin,Sweet,Acidic
+0,Gran Reserva Carmenère 2017,4.0,888,19.99,Chile / Central Valley / Maule Valley,TerraNoble,Chilean Carménère,14.0,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",74.21,33.1,8.87,44.73
+1,Gran Araucano Cabernet Sauvignon 2018,4.2,31,32.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Araucano,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",76.19,46.51,12.13,43.44
+2,Pirque Vineyard Cabernet Franc (Lot ...) 2016,4.2,80,40.49,Chile / Central Valley / Maipo Valley / Pirque,Garage Wine Co,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+3,Carmenère 2019,4.2,1642,24.99,Chile / Central Valley / Rapel Valley / Peumo,Marques de Casa Concha,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",73.75,37.48,12.07,41.19
+4,Orzada Malbec 2013,3.8,174,11.95,Chile / Central Valley / Curico Valley / Lontue Valley,Odfjell,Chilean Malbec,13.79454297,,"['Beef', 'Lamb', 'Poultry']",64.96,24.03,20.96,40.91
+5,1865 Selected Vineyards Cabernet Sauvignon 2019,3.8,623,23.83,Chile / Central Valley / Maipo Valley,San Pedro,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",68.11,51.93,13.14,45.1
+6,Lazuli Cabernet Sauvignon 2014,4.0,198,29.95,Chile / Central Valley / Maipo Valley,Viña Aquitania,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",67.75,47.14,12.12,45.72
+7,Cota 500 Chardonnay 2021,4.1,56,21.0,Chile / Central Valley / Maipo Valley,Andes Plateau,Chilean Chardonnay,13.79454297,,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",50.92,46.29526972,30.68,46.98
+8,1865 Single Vineyard Cabernet Sauvignon 2016,4.0,574,13.99,Chile / Central Valley / Maipo Valley,San Pedro,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",74.47,49.22,11.28,45.56
+9,Bagual Vineyard Garnacha (Lot ...) 2013,3.9,93,35.99,Chile / Central Valley / Maule Valley,Garage Wine Co,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+10,Carmenère Grande Reserve 2018,4.0,480,14.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Los Vascos,Chilean Carménère,14.0,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",75.46,33.18,5.45,43.11
+11,Selected Hillside Vineyards Cabernet Sauvignon 2017,3.8,844,12.99,Chile / Central Valley / Maipo Valley,Scarlet Vine,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",76.83,47.87,5.18,45.35
+12,Carmenère Reserva 2019,3.9,353,11.99,Chile / Central Valley / Maule Valley,Casas Patronales,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",71.95,36.7,15.66,44.55
+13,Max Reserva Cabernet Sauvignon 2016,3.8,4245,15.99,Chile / Aconcagua / Aconcagua Valley,Errazuriz,Chilean Cabernet Sauvignon,14.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",73.92,48.08,7.67,44.51
+14,Mapa Gran Reserva Carmenère 2019,4.0,38,17.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Marchigüe,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",78.32,29.46,6.48,44.22
+15,Guarilihue Gorda Blanca 2017,4.0,28,25.58,Chile / Central Valley / Maule Valley,Louis-Antoine Luyt,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+16,Carménère Reserva 2019,3.8,634,18.99,Chile / Central Valley / Maipo Valley,Escudo Rojo,Chilean Carménère,14.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",74.21,34.27,9.24,42.45
+17,Sauvignon Blanc 2009,3.9,32,16.25,Chile / Aconcagua / Casablanca Valley,Loma Larga,Chilean Sauvignon Blanc,13.79454297,,"['Shellfish', 'Vegetarian', 'Goat cheese']",37.67,46.29526972,1.15,71.5
+18,Antiguas Reservas Cabernet Sauvignon 2017,3.8,3135,17.99,Chile / Central Valley / Maipo Valley,Cousiño-Macul,Chilean Cabernet Sauvignon,14.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",69.62,49.52,13.03,42.36
+19,Cuvée Alexandre Carmenère Apalta Vineyard 2019,4.0,657,23.74,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,Chilean Carménère,14.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",76.27,36.39,7.63,44.29
+20,Gran Reserva Cabernet Sauvignon 2016,3.8,501,16.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,TerraNoble,Chilean Cabernet Sauvignon,14.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",73.09,49.77,10.05,45.56
+21,Corralillo Winemaker's Blend 2018,4.2,305,29.0,Chile / Aconcagua / San Antonio Valley,Matetic,Chilean Bordeaux Blend,14.5,"Shiraz/Syrah, Cabernet Franc, Malbec, Petit Verdot","['Beef', 'Pasta', 'Veal', 'Poultry']",82.66,52.09,14.78,44.62
+22,Grand Selection Chardonnay 2018,3.8,481,14.99,Chile / Aconcagua / Casablanca Valley,Lapostolle,Chilean Chardonnay,14.0,100 Chardonnay,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",64.37,46.29526972,42.06,14.09
+23,Apalta Red 2018,3.8,734,16.99,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+24,Corralillo Chardonnay 2018,4.1,151,22.67,Chile / Aconcagua / San Antonio Valley,Matetic,Chilean Chardonnay,13.79454297,,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",59.47,46.29526972,40.69,24.9
+25,Carménère Reserva 2020,3.8,122,21.99,Chile / Central Valley / Maipo Valley,Escudo Rojo,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",74.21,34.27,9.24,42.45
+26,Tequel Vineyard Cauquenes 2016,4.0,174,31.99,Chile / Central Valley / Maule Valley,Flaherty,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+27,Gota de Luna Sauvignon Blanc 2017,3.8,127,10.83,Chile / South / Malleco Valley,Cousiño-Macul,Chilean Sauvignon Blanc,13.79454297,,"['Shellfish', 'Vegetarian', 'Goat cheese']",49.94,46.29526972,5.85,62.49
+28,Twins Red Blend (Malbec - Cabernet Sauvignon) 2017,3.8,677,14.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Montes,Chilean Bordeaux Blend,14.5,"50 Cabernet Sauvignon, 50 Malbec","['Beef', 'Pasta', 'Veal', 'Poultry']",85.0,53.4,9.23,43.85
+29,Trisquel Cabernet Sauvignon 2015,3.8,47,19.0,Chile / Central Valley / Rapel Valley / Colchagua Valley,Aresti,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",68.08,48.09,4.78,48.04
+30,Cuvée Colchagua Carmenere 2020,4.0,27,20.42,Chile / Central Valley / Rapel Valley / Colchagua Valley,Casa Silva,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",76.2,32.42,6.14,38.9
+31,Apalta Red 2019,3.8,253,16.99,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+32,EQ Chardonnay 2017,4.1,62,30.58,Chile / Aconcagua / San Antonio Valley,Matetic,Chilean Chardonnay,14.0,100 Chardonnay,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",65.71,46.29526972,42.79,17.89
+33,La Capilla Estate Cabernet Sauvignon 2018,4.1,345,25.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Viu Manent,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",70.61,51.07,15.6,45.97
+34,Medalla Real Gran Reserva Chardonnay 2017,3.8,1295,18.99,Chile / Aconcagua / San Antonio Valley / Leyda Valley,Santa Rita,Chilean Chardonnay,13.5,Chardonnay,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",62.6,46.29526972,38.24,18.01
+35,Quinteto 2018,3.8,514,16.99,Chile / Aconcagua / Casablanca Valley,Loma Larga,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+36,Reserva Carménère 2020,3.8,273,17.0,Chile / Central Valley / Rapel Valley / Colchagua Valley,Ventisquero,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",58.34,38.52,18.41,42.53
+37,Gran Reserva 2020,3.9,30,25.99,Chile / Central Valley / Maipo Valley,Escudo Rojo,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+38,Antiguas Reservas Cabernet Sauvignon 2018,3.8,1978,17.98,Chile / Central Valley / Maipo Valley,Cousiño-Macul,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",69.62,49.52,13.03,42.36
+39,The Blend 2018,3.9,413,17.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Primus,Chilean Bordeaux Blend,13.5,100 Cabernet Sauvignon,"['Beef', 'Pasta', 'Veal', 'Poultry']",83.41,53.51,8.42,45.94
+40,Reserve Merlot 2017,3.8,255,15.49,Chile / Central Valley / Maipo Valley,Santa Ema,Chilean Merlot,13.0,100 Merlot,"['Beef', 'Lamb', 'Veal']",66.05,10.16,16.16,10.32
+41,Reserve Merlot 2018,3.9,226,13.99,Chile / Central Valley / Maipo Valley,Santa Ema,Chilean Merlot,13.5,100 Merlot,"['Beef', 'Lamb', 'Veal']",66.05,10.16,16.16,10.32
+42,Envero Carmenère Gran Reserva 2019,3.8,271,22.5,Chile / Central Valley / Rapel Valley / Colchagua Valley,Apaltagua,Chilean Carménère,14.0,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",72.44,38.14,8.71,45.78
+43,Montes Alpha Pinot Noir 2020,3.8,532,20.45,Chile / Aconcagua / Aconcagua Valley,Montes,Chilean Pinot Noir,13.79454297,,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",41.63,3.6,6.87,43.63
+44,Cuvée Alexandre Cabernet Sauvignon 2020,4.1,129,18.99,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,Chilean Cabernet Sauvignon,14.5,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",75.58,51.1,8.17,45.21
+45,Gran Reserva Carmenère 2016,3.8,187,16.99,Chile / Central Valley / Curico Valley,Junta,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",71.12,43.74,6.94,42.44
+46,The Blend 2017,3.8,523,17.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Primus,Chilean Bordeaux Blend,14.0,"40 Cabernet Sauvignon, 25 Merlot, 24 Carménère, 8 Petit Verdot, 3 Cabernet Franc","['Beef', 'Pasta', 'Veal', 'Poultry']",83.41,53.51,8.42,45.94
+47,Max Reserva Carmenère 2018,3.8,315,17.99,Chile / Aconcagua / Aconcagua Valley,Errazuriz,Chilean Carménère,13.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",73.12,32.38,8.01,43.32
+48,Aupa Pipeño 2021,3.9,65,15.12,Chile / Central Valley / Maule Valley,Maitia,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+49,Gran Reserva Cabernet Sauvignon 2019,3.9,85,21.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,TerraNoble,Chilean Cabernet Sauvignon,13.5,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",73.09,49.77,10.05,45.56
+50,Los Lingues Carmenère 2021,4.2,60,19.48,Chile / Central Valley / Rapel Valley / Colchagua Valley,Casa Silva,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",75.81,31.55,7.38,42.62
+51,Pinot Noir Rosé 2018,3.9,316,10.0,Chile / Aconcagua / San Antonio Valley / Leyda Valley,Leyda,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+52,Gran Reserva Merlot 2015,3.9,46,20.3,Chile / Central Valley,Alcance,Chilean Merlot,14.5,100 Merlot,"['Beef', 'Lamb', 'Veal']",71.98,21.04,8.32,28.4
+53,Limited Selection Carmenère 2019,4.1,275,20.42,Chile / Central Valley / Rapel Valley / Colchagua Valley,Montes,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",74.06,34.01,11.46,43.38
+54,1234 Reserva Red Blend 2012,3.8,115,13.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Siegel,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+55,Cromas Cabernet Sauvignon Gran Reserva 2018,3.8,800,18.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Los Vascos,Chilean Cabernet Sauvignon,14.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",74.29,46.27,4.55,42.42
+56,Legado Cabernet Sauvignon (Gran Reserva) 2020,3.8,37,17.09,Chile / Central Valley / Maipo Valley,De Martino,Chilean Cabernet Sauvignon,13.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",70.9,51.09,12.41,47.04
+57,Carignan Reserva Edición Limitada Viñedo Silvestre 2017,4.0,191,20.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Villalobos,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+58,País en Tinaja 2019,3.9,125,20.99,Chile / Central Valley / Maule Valley,Viña González Bastías,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+59,Old Vine Carignan (Lot ...) 2013,3.9,96,35.99,Chile / Central Valley / Maipo Valley,Garage Wine Co,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+60,Chardonnay 2006,4.0,98,18.99,Chile / Aconcagua / Casablanca Valley,Montes,Chilean Chardonnay,14.0,100 Chardonnay,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",64.4,46.29526972,44.55,13.88
+61,Pinot Noir Reserva 2020,3.8,61,18.49,Chile / Central Valley / Maipo Valley,Escudo Rojo,Chilean Pinot Noir,14.0,100 Pinot Noir,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",41.71,46.29526972,1.78,53.5
+62,Cota 500 2020,4.0,137,18.04,Chile / Central Valley / Maipo Valley,Andes Plateau,Chilean Cabernet Sauvignon,13.2,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",80.38,53.3,0.35,47.64
+63,Pipeño Carrìzal 2020,3.9,48,18.99,Chile / Central Valley / Maule Valley,Louis-Antoine Luyt,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+64,De Otro Planeta Cabernet Franc 2020,4.1,60,29.99,Chile / Central Valley / Maipo Valley,Viña Casalibre,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+65,Canto Sur Red 2017,3.8,500,13.99,Chile / Central Valley / Maule Valley,J. Bouchon,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+66,20 Barrels Limited Edition Pinot Noir 2018,4.0,1415,31.99,Chile / Aconcagua / Casablanca Valley,Cono Sur,Chilean Pinot Noir,14.0,100 Pinot Noir,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",45.2,3.82,11.11,47.75
+67,Corralillo Winemaker's Blend 2018,4.2,305,29.0,Chile / Aconcagua / San Antonio Valley,Matetic,Chilean Bordeaux Blend,14.5,"Shiraz/Syrah, Cabernet Franc, Malbec, Petit Verdot","['Beef', 'Pasta', 'Veal', 'Poultry']",82.66,52.09,14.78,44.62
+68,Syrah 2018,3.9,917,17.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Montes,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+69,Capítulo Flying Fish 2019,4.0,756,21.66,Chile / Central Valley / Maule Valley,Odfjell,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+70,Carmenère Reserva 2018,3.9,915,13.29,Chile / Central Valley / Rapel Valley,Casas del Bosque,Chilean Carménère,13.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",73.5,33.02,14.08,44.13
+71,Mezcla Blanca 2019,3.8,110,15.99,Chile / Central Valley / Maule Valley,Vistalago,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+72,Medalla Real Gold Medal (Limited Edition) Cabernet Sauvignon 2018,4.0,272,21.99,Chile / Central Valley / Maipo Valley,Santa Rita,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",73.5,49.59,12.5,43.7
+73,Gran Reserva Carmenère 2017,4.0,888,19.99,Chile / Central Valley / Maule Valley,TerraNoble,Chilean Carménère,14.0,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",74.21,33.1,8.87,44.73
+74,Los Lingues Carmenère 2018,4.0,289,22.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Casa Silva,Chilean Carménère,14.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",75.81,31.55,7.38,42.62
+75,1865 Single Vineyard Malbec 2009,3.8,146,21.75,Chile / Central Valley / Maule Valley,San Pedro,Chilean Malbec,13.79454297,,"['Beef', 'Lamb', 'Poultry']",68.67,25.49,20.75,33.85
+76,Lobo Carmenère Reserve Limited Edition 2019,4.0,46,23.33,Chile / Central Valley / Rapel Valley / Colchagua Valley,Villalobos,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",65.62,37.69,10.16,50.36
+77,Carmenère Gran Reserva 2019,3.9,204,18.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Koyle,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",69.6,35.6,12.9,41.53
+78,Tobiano Pinot Noir 2016,4.0,109,26.0,Chile / Aconcagua / Casablanca Valley,Kingston Family Vineyards,Chilean Pinot Noir,12.5,100 Pinot Noir,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",41.31,46.29526972,7.64,42.91
+79,Vitral Reserva Chardonnay 2014,3.8,100,10.99,Chile / Aconcagua / Casablanca Valley,Viña Maipo,Chilean Chardonnay,13.79454297,,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",62.0,46.29526972,41.76,15.47
+80,Orzada Cabernet Sauvignon 2013,3.8,206,23.99,Chile / Central Valley / Maipo Valley,Odfjell,Chilean Cabernet Sauvignon,14.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",72.51,47.72,13.0,44.4
+81,Riesling 2011,3.8,95,33.75,Chile / Aconcagua / Casablanca Valley,Terrunyo,Chilean Riesling,13.79454297,,"['Pork', 'Shellfish', 'Spicy food', 'Poultry', 'Cured Meat']",42.52,46.29526972,12.69,57.94
+82,Cuvée Alexandre Cabernet Sauvignon 2020,4.1,129,18.99,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,Chilean Cabernet Sauvignon,14.5,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",75.58,51.1,8.17,45.21
+83,Clos de Lolol Red 2018,4.0,57,28.5,Chile / Central Valley / Rapel Valley / Colchagua Valley,Araucano,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+84,Carmenère 2017,3.8,234,16.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Maquis,Chilean Carménère,13.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",69.8,39.97,10.12,47.39
+85,Gran Reserva Red Blend 2017,3.8,122,12.99,Chile / Central Valley / Maipo Valley,Dos Almas,Chilean Bordeaux Blend,13.0,"50 Cabernet Sauvignon, 30 Carménère, 13 Shiraz/Syrah, 7 Petit Verdot","['Beef', 'Pasta', 'Veal', 'Poultry']",79.45,49.28,9.05,41.94
+86,Alazan Pinot Noir 2017,3.9,34,49.32,Chile / Aconcagua / Casablanca Valley,Kingston Family Vineyards,Chilean Pinot Noir,13.79454297,,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",39.97,2.15,10.49,44.35
+87,V Vinista 2020,3.8,55,16.95,Chile / South / Itata Valley,Pedro Parra y Familia,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+88,Pinot Noir Gran Reserva 2019,4.1,125,18.99,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,Chilean Pinot Noir,14.0,100 Pinot Noir,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",43.92,1.4,6.18,48.62
+89,Medalla Real Gold Medal (Limited Edition) Cabernet Sauvignon 2017,3.9,2081,11.97,Chile / Central Valley / Maipo Valley,Santa Rita,Chilean Cabernet Sauvignon,13.5,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",73.5,49.59,12.5,43.7
+90,Montes Alpha Malbec 2017,4.0,298,18.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Montes,Chilean Malbec,14.0,100 Malbec,"['Beef', 'Lamb', 'Poultry']",65.48,23.52,18.21,34.35
+91,Cabernet Sauvignon Limited Edition 2020,4.2,288,21.94,Chile / Central Valley / Maipo Valley,Perez Cruz,Chilean Cabernet Sauvignon,14.0,Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",69.07,50.02,13.07,39.88
+92,Grand Selection Merlot 2020,3.9,78,18.99,Chile / Central Valley / Rapel Valley,Lapostolle,Chilean Merlot,13.79454297,,"['Beef', 'Lamb', 'Veal']",64.12,15.01,16.18,13.43
+93,Envero Carmenère Gran Reserva 2018,3.8,1078,21.25,Chile / Central Valley / Rapel Valley / Colchagua Valley,Apaltagua,Chilean Carménère,14.0,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",72.44,38.14,8.71,45.78
+94,Legado Cabernet Sauvignon (Gran Reserva) 2020,3.8,37,17.09,Chile / Central Valley / Maipo Valley,De Martino,Chilean Cabernet Sauvignon,13.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",70.9,51.09,12.41,47.04
+95,Gran Reserva 2019,3.8,1002,25.99,Chile / Central Valley / Maipo Valley,Escudo Rojo,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+96,Cabernet Franc (Reserva Especial) 2018,3.9,26,14.83,Chile / Central Valley / Rapel Valley / Colchagua Valley,Calcu,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+97,Xtra Cab Cabernet Sauvignon 2018,3.9,134,18.99,Chile / Central Valley,Unrated,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",80.7,53.42,4.35,47.77
+98,Vitral Reserva Chardonnay 2014,3.8,100,10.99,Chile / Aconcagua / Casablanca Valley,Viña Maipo,Chilean Chardonnay,13.79454297,,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",62.0,46.29526972,41.76,15.47
+99,Carignan 2019,3.9,39,20.0,Chile / Central Valley / Rapel Valley / Colchagua Valley,Escandalo,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+100,Corralillo Sauvignon Blanc 2020,4.1,169,14.0,Chile / Aconcagua / San Antonio Valley,Matetic,Chilean Sauvignon Blanc,13.5,100 Sauvignon Blanc,"['Shellfish', 'Vegetarian', 'Goat cheese']",44.05,46.29526972,5.16,66.76
+101,Noble Sémillon 2018,4.0,121,14.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Viu Manent,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+102,Finis Terrae White Blend 2014,3.9,60,31.17,Chile / Central Valley / Maipo Valley,Cousiño-Macul,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+103,Cariñena 2019,4.2,48,32.99,Chile / Central Valley / Maule Valley,Masintín,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+104,Max Reserva Carmenère 2017,3.8,1398,17.99,Chile / Aconcagua / Aconcagua Valley,Errazuriz,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",73.12,32.38,8.01,43.32
+105,Armador Sauvignon Blanc 2019,3.9,122,9.99,Chile / Aconcagua / Casablanca Valley,Odfjell,Chilean Sauvignon Blanc,13.79454297,,"['Shellfish', 'Vegetarian', 'Goat cheese']",42.75,46.29526972,5.47,66.39
+106,Mariposa Red Blend 2018,3.8,95,18.04,Chile / Central Valley / Maule Valley / Loncomilla Valley,Gillmore,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+107,Corralillo Sauvignon Blanc 2021,4.0,263,14.0,Chile / Aconcagua / San Antonio Valley,Matetic,Chilean Sauvignon Blanc,13.79454297,,"['Shellfish', 'Vegetarian', 'Goat cheese']",44.05,46.29526972,5.16,66.76
+108,Kuyen 2015,4.2,93,31.99,Chile / Central Valley / Maipo Valley,Antiyal,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+109,Pais (Single Ferment Series) 2018,3.9,85,21.99,Chile / Central Valley / Maule Valley,Garage Wine Co,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+110,Finis Terrae Red Blend 2015,4.3,200,19.99,Chile / Central Valley / Maipo Valley,Cousiño-Macul,Chilean Bordeaux Blend,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",79.81,53.61,12.94,43.49
+111,¡ No Es Pituko Viognier 2020,3.8,189,19.0,Chile / Central Valley / Curico Valley,Echeverría,Chilean Viognier,13.79454297,,"['Pork', 'Rich fish (salmon, tuna etc)', 'Spicy food', 'Poultry']",44.46,46.29526972,43.21,7.23
+112,Grand Itata Blanco 2020,3.8,33,21.0,Chile / South / Itata Valley,Rogue Vine,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+113,Cuvée Alexandre Carmenère Apalta Vineyard 2020,4.0,205,23.74,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,Chilean Carménère,14.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",76.27,36.39,7.63,44.29
+114,Grand Cru Maipo 2017,4.4,1299,39.99,Chile / Central Valley / Maipo Valley,Caballo Loco,Chilean Bordeaux Blend,14.5,"60 Cabernet Franc, 40 Cabernet Sauvignon","['Beef', 'Pasta', 'Veal', 'Poultry']",82.23,56.04,11.59,42.86
+115,Character Red Blend 2008,3.8,385,27.17,Chile / Central Valley / Maipo Valley,Haras de Pirque,Chilean Bordeaux Blend,14.5,"Cabernet Sauvignon, Carménère","['Beef', 'Pasta', 'Veal', 'Poultry']",85.0,58.37,3.48,48.14
+116,Gran Reserva Carmenère 2019,4.1,3033,18.99,Chile / Central Valley / Maipo Valley,Tarapacá,Chilean Carménère,14.0,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",71.23,35.63,14.98,42.41
+117,Gran Reserva Cabernet Sauvignon 2018,4.0,1037,19.95,Chile / Central Valley / Rapel Valley / Colchagua Valley,Ravanal,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",60.62,45.8,21.7,40.34
+118,Pura Fe Garnacha - Syrah 2017,3.8,35,17.99,Chile / Central Valley / Maipo Valley,Antiyal,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+119,Sauvignon Blanc Reserva 2020,4.0,539,13.29,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,Chilean Sauvignon Blanc,13.8,100 Sauvignon Blanc,"['Shellfish', 'Vegetarian', 'Goat cheese']",43.98,46.29526972,3.95,66.66
+120,Talinay Chardonnay 2020,3.8,125,30.0,Chile / Coquimbo / Limarí Valley,Tabali,Chilean Chardonnay,13.79454297,,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",65.42,46.29526972,31.65,36.82
+121,Triple C Red Blend 2006,4.1,194,26.9,Chile / Central Valley / Maipo Valley,Santa Rita,Chilean Bordeaux Blend,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",85.0,55.51,9.15,44.71
+122,Antiguas Reservas Chardonnay 2017,3.8,257,18.98,Chile / Central Valley / Maipo Valley,Cousiño-Macul,Chilean Chardonnay,14.4,100 Chardonnay,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",59.84,46.29526972,40.66,24.69
+123,Apalta Red 2015,3.8,1178,16.99,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+124,Syrah Reserva 2020,3.9,29,14.67,Chile / Central Valley / Maule Valley,Casas Patronales,Chilean Syrah,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",76.21,38.66,12.6,29.52
+125,EQ Pinot Noir 2016,4.0,36,39.0,Chile / Aconcagua / Casablanca Valley,Matetic,Chilean Pinot Noir,14.0,100 Pinot Noir,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",45.13,3.06,11.65,46.15
+126,Reserva Chardonnay 2021,3.8,173,17.0,Chile / Aconcagua / Casablanca Valley,Ventisquero,Chilean Chardonnay,13.79454297,,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",58.92,46.29526972,38.12,23.04
+127,V Vinista 2020,3.8,55,16.95,Chile / South / Itata Valley,Pedro Parra y Familia,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+128,Syrah 2014,3.9,1612,17.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Montes,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+129,Apalta Red 2020,4.0,127,16.99,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+130,Sauvignon Blanc Reserva 2019,3.8,118,20.99,Chile / Central Valley / Maipo Valley,Escudo Rojo,Chilean Sauvignon Blanc,13.0,100 Sauvignon Blanc,"['Shellfish', 'Vegetarian', 'Goat cheese']",48.26,46.29526972,2.77,66.3
+131,Twins Red Blend (Malbec - Cabernet Sauvignon) 2017,3.8,677,14.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Montes,Chilean Bordeaux Blend,14.5,"50 Cabernet Sauvignon, 50 Malbec","['Beef', 'Pasta', 'Veal', 'Poultry']",85.0,53.4,9.23,43.85
+132,Cuvée Alexandre Cabernet Sauvignon 2018,3.8,1202,18.99,Chile / Central Valley / Rapel Valley / Colchagua Valley / Apalta Valley,Lapostolle,Chilean Cabernet Sauvignon,14.5,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",75.58,51.1,8.17,45.21
+133,Carmenère Gran Reserva Cuvée 2019,4.0,182,20.99,Chile / Central Valley / Rapel Valley,Misiones de Rengo,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",69.63,35.25,13.23,44.62
+134,Triple C Red Blend 2017,4.1,504,42.99,Chile / Central Valley / Maipo Valley,Santa Rita,Chilean Bordeaux Blend,14.4,"Carménère, Cabernet Sauvignon, Cabernet Franc","['Beef', 'Pasta', 'Veal', 'Poultry']",85.0,55.51,9.15,44.71
+135,Cabernet Franc Limited Edition 2017,4.0,652,14.5,Chile / Central Valley / Maipo Valley,Perez Cruz,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+136,Pinot Noir Reserva 2019,3.8,508,14.24,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,Chilean Pinot Noir,13.1,100 Pinot Noir,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",39.81,3.7,9.55,49.76
+137,Carménère (Peumo Vineyard Block 27) 2016,4.2,2013,49.99,Chile / Central Valley / Rapel Valley / Cachapoal Valley,Terrunyo,Chilean Carménère,14.7,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",75.2,34.96,11.77,43.36
+138,Montes Alpha Carmenère 2017,4.1,2495,16.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Montes,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",74.54,33.54,11.54,41.6
+139,Late Harvest (Noble Botrytis) Sauvignon Blanc 2015,3.9,35,14.17,Chile / Central Valley / Curico Valley,Echeverría,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+140,Carmenere 2019,4.1,33,20.89,Chile / Central Valley / Rapel Valley / Cachapoal Valley,Alchemy,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",76.71,33.93,5.42,48.73
+141,Cariblanco Sauvignon Blanc 2018,4.0,50,23.8,Chile / Aconcagua / Casablanca Valley,Kingston Family Vineyards,Chilean Sauvignon Blanc,13.0,100 Sauvignon Blanc,"['Shellfish', 'Vegetarian', 'Goat cheese']",40.22,46.29526972,9.05,68.61
+142,Secreto Carmenère 2018,3.8,931,12.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Viu Manent,Chilean Carménère,14.0,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",69.58,34.9,11.0,41.6
+143,Pinot Noir Rosé 2021,4.0,109,13.29,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+144,Edición Limitada A 2017,4.0,149,29.0,Chile / Central Valley / Rapel Valley / Colchagua Valley,Caliterra,Chilean Bordeaux Blend,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",85.0,56.95,13.83,45.31
+145,Syrah Gran Reserva 2019,3.9,96,18.99,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,Chilean Syrah,14.0,Shiraz/Syrah,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",84.69,39.33,11.46,28.3
+146,Cabernet Sauvignon Gran Reserva 2019,4.0,136,18.99,Chile / Central Valley / Maipo Valley,Casas del Bosque,Chilean Cabernet Sauvignon,14.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",74.55,45.59,10.85,42.99
+147,Cuvée Colchagua Carmenere 2020,4.0,27,20.42,Chile / Central Valley / Rapel Valley / Colchagua Valley,Casa Silva,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",76.2,32.42,6.14,38.9
+148,Legado Carmenère (Reserva) 2019,3.8,189,23.49,Chile / Central Valley / Maipo Valley,De Martino,Chilean Carménère,13.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",75.58,32.17,8.26,41.84
+149,O Leão Red Blend 2019,4.1,120,33.33,Chile / Central Valley / Rapel Valley / Cachapoal Valley,Viña Vik Winery,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+150,Syrah Reserva 2020,3.9,29,14.67,Chile / Central Valley / Maule Valley,Casas Patronales,Chilean Syrah,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",76.21,38.66,12.6,29.52
+151,Cauquenina (Viñas Viejas de Cauquenes) 2016,3.9,124,21.0,Chile / Central Valley / Maule Valley,Clos des Fous,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+152,Grand Selection Chardonnay 2017,3.8,568,13.99,Chile / Aconcagua / Casablanca Valley,Lapostolle,Chilean Chardonnay,13.5,100 Chardonnay,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",64.37,46.29526972,42.06,14.09
+153,Reserva de Familia Cabernet Sauvignon 2017,3.8,968,20.99,Chile / Central Valley / Maipo Valley,Santa Carolina,Chilean Cabernet Sauvignon,13.5,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",75.0,51.98,10.72,44.51
+154,Presumido Carménère 2018,4.3,556,24.99,Chile / Central Valley / Maipo Valley,Casa Bauzá,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",68.4,34.6,29.07,43.41
+155,Sauvignon Blanc Gran Reserva 2017,3.8,294,16.14,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,Chilean Sauvignon Blanc,13.79454297,,"['Shellfish', 'Vegetarian', 'Goat cheese']",46.19,46.29526972,4.27,63.76
+156,No 03 Light & Lively 2018,3.9,123,19.99,Chile / Central Valley,Obvious Wines,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+157,La Cantera Sauvignon Blanc 2020,4.1,169,17.09,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,Chilean Sauvignon Blanc,13.79454297,,"['Shellfish', 'Vegetarian', 'Goat cheese']",41.05,46.29526972,7.27,64.37
+158,Sauvignon Blanc Pequeñas Producciones 2018,4.3,253,28.49,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,Chilean Sauvignon Blanc,13.79454297,,"['Shellfish', 'Vegetarian', 'Goat cheese']",44.5,46.29526972,7.94,61.99
+159,Cromas Carménère Gran Reserva 2019,3.9,468,17.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Los Vascos,Chilean Carménère,14.5,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",76.14,34.87,6.76,43.78
+160,Gran Reserva Cabernet Sauvignon 2017,4.1,67,22.5,Chile / Central Valley / Rapel Valley / Colchagua Valley,Maquis,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",63.73,49.83,14.57,46.17
+161,Estate Carmenère 2018,3.8,198,14.49,Chile / Central Valley / Maipo Valley,De Martino,Chilean Carménère,14.0,100 Carménère,"['Beef', 'Pasta', 'Lamb', 'Poultry']",71.97,34.29,10.71,40.69
+162,Cabernet Sauvignon Reserva 2011,3.9,61,19.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Los Vascos,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",66.61,49.03,11.01,44.36
+163,Grand Selection Merlot 2019,3.8,150,14.95,Chile / Central Valley / Rapel Valley,Lapostolle,Chilean Merlot,13.79454297,,"['Beef', 'Lamb', 'Veal']",64.12,15.01,16.18,13.43
+164,Lazuli Cabernet Sauvignon 2017,4.2,295,32.99,Chile / Central Valley / Maipo Valley,Viña Aquitania,Chilean Cabernet Sauvignon,14.2,Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",67.75,47.14,12.12,45.72
+165,Legado Carmenère (Reserva) 2020,4.0,52,21.5,Chile / Central Valley / Maipo Valley,De Martino,Chilean Carménère,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Poultry']",75.58,32.17,8.26,41.84
+166,Cabernet Sauvignon (Reserva Especial) 2017,3.8,176,16.67,Chile / Central Valley / Rapel Valley / Colchagua Valley,Calcu,Chilean Cabernet Sauvignon,14.0,100 Cabernet Sauvignon,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",68.32,50.7,10.5,45.98
+167,Cota 500 Chardonnay 2021,4.1,56,21.0,Chile / Central Valley / Maipo Valley,Andes Plateau,Chilean Chardonnay,13.79454297,,"['Pork', 'Rich fish (salmon, tuna etc)', 'Vegetarian', 'Poultry']",50.92,46.29526972,30.68,46.98
+168,Armador Cabernet Sauvignon 2020,3.8,154,18.33,Chile / Central Valley / Maipo Valley,Odfjell,Chilean Cabernet Sauvignon,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",71.9,48.56,15.39,43.78
+169,Cabernet Sauvignon Reserva 2019,3.9,3424,15.99,Chile / Central Valley / Maipo Valley,Perez Cruz,Chilean Cabernet Sauvignon,13.5,100 Shiraz/Syrah,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",68.26,47.71,14.54,41.64
+170,Cabernet Franc Limited Edition 2020,4.1,390,20.99,Chile / Central Valley / Maipo Valley,Perez Cruz,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+171,Reserva Merlot 2020,3.8,75,17.0,Chile / Central Valley / Maipo Valley,Ventisquero,Chilean Merlot,13.79454297,,"['Beef', 'Lamb', 'Veal']",63.44,18.96,21.66,17.74
+172,Subsollum Pinot Noir 2017,3.9,265,20.99,Chile / Central Valley / Rapel Valley / Cachapoal Valley,Clos des Fous,Chilean Pinot Noir,13.79454297,,"['Beef', 'Veal', 'Game (deer, venison)', 'Poultry']",39.68,3.72,6.28,51.06
+173,Cabernet Franc 2017,4.0,389,17.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Maquis,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+174,Costero Sauvignon Blanc 2019,3.9,311,16.99,Chile / Central Valley / Rapel Valley / Colchagua Valley,Mario Geisse,Chilean Sauvignon Blanc,13.79454297,,"['Shellfish', 'Vegetarian', 'Goat cheese']",45.11,46.29526972,10.43,61.8
+175,Syrah Gran Reserva 2020,4.1,50,18.99,Chile / Aconcagua / Casablanca Valley,Casas del Bosque,Chilean Syrah,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",84.69,39.33,11.46,28.3
+176,Canto de Apalta Cellar Selection 2018,3.8,48,20.3,Chile / Central Valley / Rapel Valley,Lapostolle,,13.79454297,,[],61.73,46.29526972,9.05,53.555
