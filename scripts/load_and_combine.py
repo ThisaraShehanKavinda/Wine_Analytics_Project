@@ -114,7 +114,9 @@ non_regular_wines = wine_df[(wine_df['Alcohol content'] > 16) | (wine_df['Alcoho
 print(non_regular_wines)
 print("Wines below 9% alcohol are low-alcohol wines, like Moscato or low-alcohol Riesling. Wines above 16% are high-alcohol, typically fortified wines like Port or Sherry.")
 
-
+#save files
+output_path = "data/processed/process_wine_data.csv"
+wine_df.to_csv(output_path, index=False)
 
 
 # dataframes = []
