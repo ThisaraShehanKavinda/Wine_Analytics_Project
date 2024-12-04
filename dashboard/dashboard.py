@@ -5,7 +5,8 @@ import plotly.express as px
 import pandas as pd
 
 # Load your cleaned dataset
-wine_df = pd.read_csv("cleaned_wine_data.csv")
+data_path = "data/processed/process_wine_data.csv"  # Update this path as needed
+wine_df = pd.read_csv(data_path)
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
