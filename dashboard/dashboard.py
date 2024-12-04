@@ -5,7 +5,7 @@ import plotly.express as px
 import pandas as pd
 
 # Load your cleaned dataset
-wine_df = pd.read_csv("cleaned_wine_data.csv")
+wine_df = pd.read_csv("data/processed/process_wine_data.csv")
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
@@ -52,7 +52,7 @@ app.layout = html.Div(
         ], style={'display': 'grid', 'gridTemplateColumns': '1fr 1fr', 'gap': '20px', 'padding': '20px'}),
 
         # Footer
-        html.Div("Dashboard by Your Team", style={'textAlign': 'center', 'color': '#8c8c8c', 'marginTop': '20px'}),
+        html.Div("Dashboard by Team Outliers", style={'textAlign': 'center', 'color': '#8c8c8c', 'marginTop': '20px'}),
     ]
 )
 
