@@ -5,7 +5,7 @@ import plotly.express as px
 import pandas as pd
 
 # Load your cleaned dataset
-wine_df = pd.read_csv("data/processed/process_wine_data.csv")
+wine_df = pd.read_csv("cleaned_wine_data.csv")
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
@@ -26,9 +26,9 @@ app.layout = html.Div(
             html.Label("Select Country:", style={'fontWeight': 'bold'}),
             dcc.Dropdown(
                 id='country-dropdown',
-                options=[{'label': country, 'value': country} for country in wine_df['Country'].unique()],
-                value=None,
-                placeholder="Select a country",
+                options=[{'label': country, 'value': country} for country in wine_df['Country'].dropna().unique()],
+                value=[],
+                placeholder="Select one or more countries",
                 multi=True
             ),
 
@@ -52,7 +52,7 @@ app.layout = html.Div(
         ], style={'display': 'grid', 'gridTemplateColumns': '1fr 1fr', 'gap': '20px', 'padding': '20px'}),
 
         # Footer
-        html.Div("Dashboard by Team Outliers", style={'textAlign': 'center', 'color': '#8c8c8c', 'marginTop': '20px'}),
+        html.Div("Dashboard by Your Team", style={'textAlign': 'center', 'color': '#8c8c8c', 'marginTop': '20px'}),
     ]
 )
 
@@ -74,27 +74,41 @@ def update_graphs(selected_countries, price_range):
     if selected_countries:
         filtered_df = filtered_df[filtered_df['Country'].isin(selected_countries)]
     
-    # Create visualizations
-    hist_fig = px.histogram(filtered_df, x='Price', color='Country', title="Price Distribution by Country",
-                            color_discrete_sequence=px.colors.qualitative.Pastel, nbins=30)
-    hist_fig.update_layout(autosize=True, template='plotly_dark')
+    # Ensure food-pairing columns are numeric
+    food_pairing_columns = filtered_df.columns[-21:]  # Adjust based on your data
+    filtered_df[food_pairing_columns] = filtered_df[food_pairing_columns].apply(pd.to_numeric, errors='coerce')
+    food_counts = filtered_df[food_pairing_columns].sum().sort_values(ascending=False)
 
-    scatter_fig = px.scatter(filtered_df, x='Price', y='Rating', color='Country',
-                             title="Ratings vs Price", size='Number of Ratings',
-                             template='plotly_dark', hover_name='Name')
+    # Create visualizations
+    hist_fig = px.histogram(
+        filtered_df, x='Price', color='Country',
+        title="Price Distribution by Country",
+        color_discrete_sequence=px.colors.qualitative.Pastel, nbins=30
+    )
+    hist_fig.update_layout(autosize=True, template='plotly_white')
+
+    scatter_fig = px.scatter(
+        filtered_df, x='Price', y='Rating', color='Country',
+        title="Ratings vs Price", size='Number of Ratings',
+        template='plotly_white', hover_name='Name'
+    )
     scatter_fig.update_traces(marker=dict(opacity=0.7, line=dict(width=1, color='DarkSlateGrey')))
 
-    food_counts = filtered_df.iloc[:, -21:].sum().sort_values(ascending=False)
-    bar_fig = px.bar(food_counts, x=food_counts.index, y=food_counts.values,
-                     title="Popular Food Pairings", labels={'x': 'Food', 'y': 'Count'},
-                     template='plotly_dark')
+    bar_fig = px.bar(
+        food_counts, x=food_counts.index, y=food_counts.values,
+        title="Popular Food Pairings", labels={'x': 'Food', 'y': 'Count'},
+        template='plotly_white'
+    )
     bar_fig.update_traces(marker_color='darkred')
 
-    box_fig = px.box(filtered_df, x='Country', y='Alcohol content', color='Country',
-                     title="Alcohol Content by Country", template='plotly_dark')
+    box_fig = px.box(
+        filtered_df, x='Country', y='Alcohol content', color='Country',
+        title="Alcohol Content by Country", template='plotly_white'
+    )
     box_fig.update_traces(marker=dict(opacity=0.7))
 
     return hist_fig, scatter_fig, bar_fig, box_fig
+
 
 # Run the app
 if __name__ == '__main__':
