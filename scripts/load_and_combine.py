@@ -117,15 +117,3 @@ print("Wines below 9% alcohol are low-alcohol wines, like Moscato or low-alcohol
 #save files
 output_path = "data/processed/process_wine_data.csv"
 wine_df.to_csv(output_path, index=False)
-
-
-# dataframes = []
-# for file in csv_files:
-#     file_path = os.path.join(data_folder, file)
-#     df = pd.read_csv(file_path)
-#     dataframes.append(df)  
-
-# print(dataframes)
-
-# print("details")
-# print(dataframes["Name"])
