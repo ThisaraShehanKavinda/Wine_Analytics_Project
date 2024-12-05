@@ -17,18 +17,29 @@ app.title = "Advanced Wine Analytics Dashboard"
 
 # App Layout
 app.layout = html.Div(
+    style={'backgroundColor': '#f5f5f5', 'fontFamily': 'Arial, sans-serif'},
     children=[
         # Header
-        html.H1("Advanced Wine Analytics Dashboard", style={'textAlign': 'center'}),
-        html.P(
-            "Dive into the world of wines with insightful and interactive visualizations.",
-            style={'textAlign': 'center'}
+        html.Div(
+            style={
+                'background': 'linear-gradient(to right, #1e3c72, #2a5298)',
+                'color': 'white',
+                'padding': '20px',
+                'textAlign': 'center',
+            },
+            children=[
+                html.H1("Advanced Wine Analytics Dashboard"),
+                html.P(
+                    "Dive into the world of wines with insightful and interactive visualizations.",
+                    style={'fontSize': '18px'}
+                ),
+            ]
         ),
 
         # Filters
         html.Div([
             html.Div([
-                html.Label("Select Country:", style={'fontWeight': 'bold'}),
+                html.Label("Select Country:", style={'fontWeight': 'bold', 'color': '#333'}),
                 dcc.Dropdown(
                     id='country-dropdown',
                     options=[{'label': c, 'value': c} for c in sorted(wine_df['Country'].unique())],
@@ -39,7 +50,7 @@ app.layout = html.Div(
             ], style={'width': '30%', 'display': 'inline-block', 'padding': '10px'}),
 
             html.Div([
-                html.Label("Select Wine Style:", style={'fontWeight': 'bold'}),
+                html.Label("Select Wine Style:", style={'fontWeight': 'bold', 'color': '#333'}),
                 dcc.Dropdown(
                     id='wine-style-dropdown',
                     options=[{'label': s, 'value': s} for s in sorted(wine_df['Wine style'].unique())],
@@ -50,7 +61,7 @@ app.layout = html.Div(
             ], style={'width': '30%', 'display': 'inline-block', 'padding': '10px'}),
 
             html.Div([
-                html.Label("Price Range (USD):", style={'fontWeight': 'bold'}),
+                html.Label("Price Range (USD):", style={'fontWeight': 'bold', 'color': '#333'}),
                 dcc.RangeSlider(
                     id='price-slider',
                     min=wine_df['Price'].min(),
@@ -77,7 +88,17 @@ app.layout = html.Div(
             dcc.Graph(id='wine-style-pie'),
         ], style={'padding': '20px'}),
 
-        html.Footer("Dashboard by Your Name", style={'textAlign': 'center', 'marginTop': '20px'})
+        html.Footer(
+            "Dashboard by Your Name",
+            style={
+                'textAlign': 'center',
+                'marginTop': '20px',
+                'padding': '10px',
+                'backgroundColor': '#1e3c72',
+                'color': 'white',
+                'fontSize': '14px',
+            }
+        )
     ]
 )
 
@@ -103,18 +124,21 @@ def update_charts(selected_countries, selected_styles, price_range):
     if selected_styles:
         filtered_df = filtered_df[filtered_df['Wine style'].isin(selected_styles)]
 
-    # Histogram: Price distribution
+    # Histogram: Price distribution with animation
     hist_fig = px.histogram(
         filtered_df, x='Price', color='Country',
         title="Price Distribution by Country",
         nbins=30, color_discrete_sequence=px.colors.sequential.Agsunset
+    )
+    hist_fig.update_layout(
+        transition={'duration': 500, 'easing': 'cubic-in-out'}
     )
 
     # Scatter Plot: Ratings vs Price
     scatter_fig = px.scatter_3d(
         filtered_df, x='Price', y='Rating', z='Number of Ratings',
         color='Country', title="Ratings vs Price",
-        hover_name='Name', animation_frame='Country'
+        hover_name='Name'
     )
 
     # Bar Chart: Popular Food Pairings
