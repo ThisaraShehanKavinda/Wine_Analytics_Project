@@ -210,13 +210,13 @@ def update_charts(selected_countries, selected_styles, price_range):
         text_auto=True, color=food_counts.values, color_continuous_scale='Viridis'
     )
 
-    # Box Plot: Alcohol Content
+    
     box_fig = px.box(
         filtered_df, x='Country', y='Alcohol content', color='Country',
         title="Alcohol Content by Country", color_discrete_sequence=px.colors.qualitative.Safe
     )
 
-    # Pie Chart: Wine Styles
+    
     pie_fig = px.pie(
         filtered_df, names='Wine style', title="Wine Style Distribution",
         color_discrete_sequence=px.colors.sequential.RdBu
