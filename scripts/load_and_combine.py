@@ -137,4 +137,33 @@ wine_df = wine_df.drop(columns=['Food pairings','Unnamed: 0'])
 # Replace null values in the 'Region' column with 'Unknown'
 wine_df['Country_Region'] = wine_df['Country_Region'].fillna('Unknown')
 
+# Define a function to classify the alcohol content
+def classify_alcohol(content):
+    if content < 9.0:
+        return "Low Alcohol Wine"
+    elif 9.0 <= content < 11.0:
+        return "Medium-Low Alcohol wine"
+    elif 11.0 <= content < 14.0:
+        return "Standard Alcohol wines"
+    elif 14.0 <= content < 16.0:
+        return "High Alcohol wines"
+    elif content >= 16.0:
+        return "High Alcohol wines"
+    else:
+        return "out of range"
+    
+# Apply the classification to the Alcohol content column
+wine_df['Alcohol Classification'] = wine_df['Alcohol content'].apply(classify_alcohol)
+
+# Rearrange the columns to place the new column after 'Alcohol content'
+columns = list(wine_df.columns)
+alcohol_idx = columns.index('Alcohol content')  # Get index of the Alcohol content column
+# Rearrange the columns
+columns = columns[:alcohol_idx + 1] + ['Alcohol Classification'] + columns[alcohol_idx + 1:-1]
+wine_df = wine_df[columns]
+
+# Display the modified DataFrame
 print(wine_df)
+
+# Save the modified DataFrame to a CSV
+# wine_df.to_csv('modify.csv', index=False)
