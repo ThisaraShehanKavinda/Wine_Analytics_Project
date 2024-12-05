@@ -12,8 +12,7 @@ wine_df = pd.read_csv(data_path)
 
 # Assuming you already have the NLP results saved (e.g., NLP bar chart from model.ipynb)
 # Load the wine_reviews_with_labels.csv
-nlp_data_path = r"C:\Users\Shavini\OneDrive\Desktop\New folder\Wine_Analytics_Project\dashboard\wine_reviews_with_labels.csv"
-  # Update this path if necessary
+nlp_data_path = r"C:\Users\NETHU\Desktop\New folder (2)\Wine_Analytics_Project\data\reviews\wine_reviews_with_labels.csv"
 nlp_wine_df = pd.read_csv(nlp_data_path)
 
 # Count the occurrences of each category from the NLP analysis
@@ -32,7 +31,7 @@ nlp_bar_fig.update_layout(
 )
 
 # Initialize Dash app
-app = dash.Dash(_name_, external_stylesheets=[dbc.themes.LUX])  # Use a Bootstrap theme
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])  # Corrected use of `__name__`
 app.title = "Wine Analytics Dashboard"
 
 # App Layout
@@ -201,7 +200,7 @@ def update_charts(selected_countries, selected_styles, price_range):
     scatter_fig = px.scatter_3d(
         filtered_df, x='Price', y='Rating', z='Number of Ratings',
         color='Country', title="Ratings vs Price",
-        hover_name='Name', animation_frame='Country'
+        hover_name='Name'
     )
 
     # Bar Chart: Food Pairings
@@ -227,5 +226,5 @@ def update_charts(selected_countries, selected_styles, price_range):
     return hist_fig, scatter_fig, bar_fig, box_fig, pie_fig
 
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     app.run_server(debug=True)
