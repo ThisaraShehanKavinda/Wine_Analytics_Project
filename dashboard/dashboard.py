@@ -187,7 +187,7 @@ def update_charts(selected_countries, selected_styles, price_range):
     if selected_styles:
         filtered_df = filtered_df[filtered_df['Wine style'].isin(selected_styles)]
 
-    # Histogram with Animation
+    
     hist_fig = px.histogram(
         filtered_df, x='Price', color='Country',
         title="Price Distribution by Country",
@@ -195,14 +195,14 @@ def update_charts(selected_countries, selected_styles, price_range):
     )
     hist_fig.update_layout(transition_duration=500)
 
-    # Scatter Plot: Ratings vs Price
+    
     scatter_fig = px.scatter_3d(
         filtered_df, x='Price', y='Rating', z='Number of Ratings',
         color='Country', title="Ratings vs Price",
         hover_name='Name'
     )
 
-    # Bar Chart: Food Pairings
+    
     food_counts = filtered_df['Food pairings'].explode().value_counts()
     bar_fig = px.bar(
         food_counts, x=food_counts.index, y=food_counts.values,
