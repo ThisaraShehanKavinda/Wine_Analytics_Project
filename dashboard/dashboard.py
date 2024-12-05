@@ -17,7 +17,7 @@ nlp_wine_df = pd.read_csv(nlp_data_path)
 
 category_counts = nlp_wine_df["talks_about"].value_counts()
 
-# Create a bar chart with Plotly
+
 nlp_bar_fig = go.Figure([go.Bar(
     x=category_counts.index,
     y=category_counts.values,
@@ -29,8 +29,8 @@ nlp_bar_fig.update_layout(
     yaxis_title="Count"
 )
 
-# Initialize Dash app
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])  # Corrected use of `__name__`
+
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])  
 app.title = "Wine Analytics Dashboard"
 
 # App Layout
