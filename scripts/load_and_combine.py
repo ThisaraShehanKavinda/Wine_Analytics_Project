@@ -59,7 +59,6 @@ wine_df.info()
 
 # Create a new column with row numbers starting from 1
 wine_df.insert(0, "Index", range(1, len(wine_df) + 1))
-wine_df.drop(columns=['Unnamed: 0'])
 
 # Display the updated DataFrame
 print(wine_df)
@@ -115,8 +114,8 @@ print(non_regular_wines)
 print("Wines below 9% alcohol are low-alcohol wines, like Moscato or low-alcohol Riesling. Wines above 16% are high-alcohol, typically fortified wines like Port or Sherry.")
 
 #save files
-output_path = "data/processed/process_wine_data.csv"
-wine_df.to_csv(output_path, index=False)
+#output_path = "data/processed/process_wine_data.csv"
+#wine_df.to_csv(output_path, index=False)
 
  # Convert string lists to actual lists
 wine_df['Food pairings'] = wine_df['Food pairings'].apply(eval) 
@@ -135,3 +134,34 @@ wine_df = wine_df.drop(columns=['Food pairings','Unnamed: 0'])
 #wine_df.to_csv('output_file_corrected2.csv', index=False)
 
 print(wine_df)
+
+# Define a function to classify the alcohol content
+def classify_alcohol(content):
+    if content < 9.0:
+        return "Low Alcohol Wine"
+    elif 9.0 <= content < 11.0:
+        return "Medium-Low Alcohol wine"
+    elif 11.0 <= content < 14.0:
+        return "Standard Alcohol wines"
+    elif 14.0 <= content < 16.0:
+        return "High Alcohol wines"
+    elif content >= 16.0:
+        return "High Alcohol wines"
+    else:
+        return "out of range"
+    
+# Apply the classification to the Alcohol content column
+wine_df['Alcohol Classification'] = wine_df['Alcohol content'].apply(classify_alcohol)
+
+# Rearrange the columns to place the new column after 'Alcohol content'
+columns = list(wine_df.columns)
+alcohol_idx = columns.index('Alcohol content')  # Get index of the Alcohol content column
+# Rearrange the columns
+columns = columns[:alcohol_idx + 1] + ['Alcohol Classification'] + columns[alcohol_idx + 1:-1]
+wine_df = wine_df[columns]
+
+# Display the modified DataFrame
+print(wine_df)
+
+# Save the modified DataFrame to a CSV
+# wine_df.to_csv('kavi.csv', index=False)
