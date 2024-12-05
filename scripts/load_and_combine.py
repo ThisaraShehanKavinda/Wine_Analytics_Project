@@ -117,3 +117,21 @@ print("Wines below 9% alcohol are low-alcohol wines, like Moscato or low-alcohol
 #save files
 output_path = "data/processed/process_wine_data.csv"
 wine_df.to_csv(output_path, index=False)
+
+ # Convert string lists to actual lists
+wine_df['Food pairings'] = wine_df['Food pairings'].apply(eval) 
+
+# Extract unique food items from the Food pairings column
+all_foods = set(food for sublist in wine_df['Food pairings'] for food in sublist)
+
+# Create columns for each unique food and mark True/False
+for food in all_foods:
+    wine_df[food] = wine_df['Food pairings'].apply(lambda x: food in x)
+
+# Optionally drop the original Food pairings column
+wine_df = wine_df.drop(columns=['Food pairings','Unnamed: 0'])
+
+# Save the modified DataFrame to a CSV
+#wine_df.to_csv('output_file_corrected2.csv', index=False)
+
+print(wine_df)
