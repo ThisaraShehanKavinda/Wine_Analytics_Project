@@ -134,4 +134,10 @@ wine_df = wine_df.drop(columns=['Food pairings','Unnamed: 0'])
 # Save the modified DataFrame to a CSV
 #wine_df.to_csv('output_file_corrected2.csv', index=False)
 
+
+# Replace null values in the 'Region' column with 'Unknown'
+wine_df['Country_Region'] = wine_df['Country_Region'].fillna('Unknown')
+
 print(wine_df)
+
+
