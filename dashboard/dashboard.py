@@ -154,7 +154,7 @@ app.layout = html.Div(
     style={"fontFamily": "Arial, sans-serif", "margin": "0 auto", "maxWidth": "1200px"}
 )
 
-# Toggle Filter Panel
+
 @app.callback(
     Output("filter-panel", "style"),
     Input("filter-toggle", "n_clicks"),
@@ -166,7 +166,7 @@ def toggle_filters(n_clicks):
     else:
         return {"display": "none"}
 
-# Update Charts Callback
+
 @app.callback(
     [Output('price-histogram', 'figure'),
      Output('ratings-scatter', 'figure'),
