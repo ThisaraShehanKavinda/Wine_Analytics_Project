@@ -80,7 +80,7 @@ app.layout = html.Div(
             }
         ),
 
-        # Collapsible Filter Panel
+        
         html.Div([
             html.Button("Toggle Filters", id="filter-toggle", style={
                 "backgroundColor": "#007bff", "color": "white", "padding": "10px", "border": "none",
@@ -127,7 +127,7 @@ app.layout = html.Div(
             )
         ]),
 
-        # Tabbed Visualizations
+       
         dcc.Tabs([
             dcc.Tab(label="Price Analysis", children=[
                 dcc.Graph(id='price-histogram', style={'padding': '20px'}),
@@ -140,7 +140,7 @@ app.layout = html.Div(
             dcc.Tab(label="Wine Styles", children=[
                 dcc.Graph(id='wine-style-pie', style={'padding': '20px'})
             ]),
-            # New NLP Analysis Tab
+            
             dcc.Tab(label="NLP Analysis", children=[
                 dcc.Graph(id='nlp-bar-chart', figure=nlp_bar_fig, style={'padding': '20px'})
             ])
