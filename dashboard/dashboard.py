@@ -33,10 +33,10 @@ nlp_bar_fig.update_layout(
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])  
 app.title = "Wine Analytics Dashboard"
 
-# App Layout
+
 app.layout = html.Div(
     children=[
-        # Header Section
+        
         html.Div(
             children=[
                 html.Div(
