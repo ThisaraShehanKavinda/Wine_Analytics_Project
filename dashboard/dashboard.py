@@ -6,16 +6,15 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 import plotly.graph_objects as go
 
-# Load the dataset
-data_path = "data/processed/process_wine_data.csv"  # Adjust this path as needed
+
+data_path = "data/processed/process_wine_data.csv"
 wine_df = pd.read_csv(data_path)
 
-# Assuming you already have the NLP results saved (e.g., NLP bar chart from model.ipynb)
-# Load the wine_reviews_with_labels.csv
+
 nlp_data_path = r"C:\Users\NETHU\Desktop\New folder (2)\Wine_Analytics_Project\data\reviews\wine_reviews_with_labels.csv"
 nlp_wine_df = pd.read_csv(nlp_data_path)
 
-# Count the occurrences of each category from the NLP analysis
+
 category_counts = nlp_wine_df["talks_about"].value_counts()
 
 # Create a bar chart with Plotly
