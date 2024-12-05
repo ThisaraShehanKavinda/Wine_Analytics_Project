@@ -11,7 +11,7 @@ data_path = "data/processed/process_wine_data.csv"
 wine_df = pd.read_csv(data_path)
 
 
-nlp_data_path = r"C:\Users\NETHU\Desktop\New folder (2)\Wine_Analytics_Project\data\reviews\wine_reviews_with_labels.csv"
+nlp_data_path = r"data/reviews/wine_reviews_with_labels.csv"
 nlp_wine_df = pd.read_csv(nlp_data_path)
 
 
