@@ -1,69 +1,86 @@
 import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output
-import plotly.express as px
 import pandas as pd
 import dash_bootstrap_components as dbc
+import plotly.express as px
+import plotly.graph_objects as go
 
-
-# Load dataset
-data_path = "data/processed/process_wine_data.csv"  # Update this path as needed
+# Load the dataset
+data_path = "data/processed/process_wine_data.csv"  # Adjust this path as needed
 wine_df = pd.read_csv(data_path)
 
-# Preprocessing
-wine_df['Food pairings'] = wine_df['Food pairings'].apply(eval)
+# Assuming you already have the NLP results saved (e.g., NLP bar chart from model.ipynb)
+# Load the wine_reviews_with_labels.csv
+nlp_data_path = r"C:\Users\Shavini\OneDrive\Desktop\New folder\Wine_Analytics_Project\dashboard\wine_reviews_with_labels.csv"
+  # Update this path if necessary
+nlp_wine_df = pd.read_csv(nlp_data_path)
+
+# Count the occurrences of each category from the NLP analysis
+category_counts = nlp_wine_df["talks_about"].value_counts()
+
+# Create a bar chart with Plotly
+nlp_bar_fig = go.Figure([go.Bar(
+    x=category_counts.index,
+    y=category_counts.values,
+    marker=dict(color='skyblue')
+)])
+nlp_bar_fig.update_layout(
+    title="Distribution of Review Categories from NLP",
+    xaxis_title="Category",
+    yaxis_title="Count"
+)
 
 # Initialize Dash app
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])  # Use a Bootstrap theme
+app = dash.Dash(_name_, external_stylesheets=[dbc.themes.LUX])  # Use a Bootstrap theme
 app.title = "Wine Analytics Dashboard"
 
 # App Layout
 app.layout = html.Div(
     children=[
-       # Header Section
-html.Div(
-    children=[
+        # Header Section
         html.Div(
             children=[
-                html.Img(src="/assets/wine.png", style={"height": "80px", "marginRight": "20px"}),
                 html.Div(
                     children=[
-                        html.H1(
-                            "Wine Analytics Dashboard",
-                            style={
-                                'textAlign': 'center',
-                                'color': '#4a4a4a',
-                                'fontWeight': 'bold',
-                                'margin': '0'
-                            }
+                        html.Img(src="/assets/wine.png", style={"height": "80px", "marginRight": "20px"}),
+                        html.Div(
+                            children=[
+                                html.H1(
+                                    "Wine Analytics Dashboard",
+                                    style={
+                                        'textAlign': 'center',
+                                        'color': '#4a4a4a',
+                                        'fontWeight': 'bold',
+                                        'margin': '0'
+                                    }
+                                ),
+                                html.P(
+                                    "Dive into the world of wines with insightful and interactive visualizations.",
+                                    style={
+                                        'textAlign': 'center',
+                                        'color': '#6c757d',
+                                        'margin': '0'
+                                    }
+                                )
+                            ],
+                            style={"flex": "1"}
                         ),
-                        html.P(
-                            "Dive into the world of wines with insightful and interactive visualizations.",
-                            style={
-                                'textAlign': 'center',
-                                'color': '#6c757d',
-                                'margin': '0'
-                            }
-                        )
                     ],
-                    style={"flex": "1"}
+                    style={
+                        "display": "flex",
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                    },
                 ),
             ],
             style={
-                "display": "flex",
-                "alignItems": "center",
-                "justifyContent": "center",
-            },
+                "background": "linear-gradient(90deg, #ff9a9e 0%, #fad0c4 100%)",
+                "padding": "20px",
+                "borderRadius": "10px",
+                "marginBottom": "20px"
+            }
         ),
-    ],
-    style={
-        "background": "linear-gradient(90deg, #ff9a9e 0%, #fad0c4 100%)",
-        "padding": "20px",
-        "borderRadius": "10px",
-        "marginBottom": "20px"
-    }
-),
-
 
         # Collapsible Filter Panel
         html.Div([
@@ -124,6 +141,10 @@ html.Div(
             ]),
             dcc.Tab(label="Wine Styles", children=[
                 dcc.Graph(id='wine-style-pie', style={'padding': '20px'})
+            ]),
+            # New NLP Analysis Tab
+            dcc.Tab(label="NLP Analysis", children=[
+                dcc.Graph(id='nlp-bar-chart', figure=nlp_bar_fig, style={'padding': '20px'})
             ])
         ]),
 
@@ -206,5 +227,5 @@ def update_charts(selected_countries, selected_styles, price_range):
     return hist_fig, scatter_fig, bar_fig, box_fig, pie_fig
 
 
-if __name__ == '__main__':
+if _name_ == '_main_':
     app.run_server(debug=True)
