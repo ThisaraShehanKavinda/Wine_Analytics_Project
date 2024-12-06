@@ -147,7 +147,7 @@ app.layout = html.Div(
         ]),
 
         html.Footer(
-            "Dashboard by Your Name",
+            "Dashboard by USJ OUTLIERS",
             style={'textAlign': 'center', 'marginTop': '20px', 'padding': '10px', 'backgroundColor': '#f1f1f1'}
         )
     ],
