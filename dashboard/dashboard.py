@@ -6,6 +6,43 @@ import dash_bootstrap_components as dbc
 import plotly.express as px
 import plotly.graph_objects as go
 
+import plotly.colors as pcolors
+
+# Paths to data
+data_path = "data/processed/process_wine_data.csv"
+wine_df = pd.read_csv(data_path)
+
+nlp_data_path = r"data/reviews/wine_reviews_with_labels.csv"
+nlp_wine_df = pd.read_csv(nlp_data_path)
+
+# NLP Analysis Data
+category_counts = nlp_wine_df["talks_about"].value_counts()
+
+# Generate unique colors for the bar chart
+unique_colors = pcolors.qualitative.Set3
+num_categories = len(category_counts)
+bar_colors = unique_colors * (num_categories // len(unique_colors)) + unique_colors[:num_categories % len(unique_colors)]
+
+# NLP Bar Chart
+nlp_bar_fig = go.Figure([go.Bar(
+    x=category_counts.index,
+    y=category_counts.values,
+    marker=dict(color=bar_colors)
+)])
+nlp_bar_fig.update_layout(
+    title="Distribution of Review Categories from NLP",
+    xaxis_title="Category",
+    yaxis_title="Count"
+)
+
+# Dash App Initialization
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])
+app.title = "Wine Analytics Dashboard"
+
+app.layout = html.Div(
+    children=[
+=======
+
 
 data_path = "data/processed/process_wine_data.csv"
 wine_df = pd.read_csv(data_path)
@@ -37,6 +74,7 @@ app.title = "Wine Analytics Dashboard"
 app.layout = html.Div(
     children=[
         
+
         html.Div(
             children=[
                 html.Div(
@@ -80,7 +118,8 @@ app.layout = html.Div(
             }
         ),
 
-        
+
+
         html.Div([
             html.Button("Toggle Filters", id="filter-toggle", style={
                 "backgroundColor": "#007bff", "color": "white", "padding": "10px", "border": "none",
@@ -127,7 +166,7 @@ app.layout = html.Div(
             )
         ]),
 
-       
+
         dcc.Tabs([
             dcc.Tab(label="Price Analysis", children=[
                 dcc.Graph(id='price-histogram', style={'padding': '20px'}),
@@ -139,8 +178,7 @@ app.layout = html.Div(
             ]),
             dcc.Tab(label="Wine Styles", children=[
                 dcc.Graph(id='wine-style-pie', style={'padding': '20px'})
-            ]),
-            
+
             dcc.Tab(label="NLP Analysis", children=[
                 dcc.Graph(id='nlp-bar-chart', figure=nlp_bar_fig, style={'padding': '20px'})
             ])
@@ -153,7 +191,6 @@ app.layout = html.Div(
     ],
     style={"fontFamily": "Arial, sans-serif", "margin": "0 auto", "maxWidth": "1200px"}
 )
-
 
 @app.callback(
     Output("filter-panel", "style"),
@@ -187,7 +224,7 @@ def update_charts(selected_countries, selected_styles, price_range):
     if selected_styles:
         filtered_df = filtered_df[filtered_df['Wine style'].isin(selected_styles)]
 
-    
+
     hist_fig = px.histogram(
         filtered_df, x='Price', color='Country',
         title="Price Distribution by Country",
@@ -195,14 +232,14 @@ def update_charts(selected_countries, selected_styles, price_range):
     )
     hist_fig.update_layout(transition_duration=500)
 
-    
+
     scatter_fig = px.scatter_3d(
         filtered_df, x='Price', y='Rating', z='Number of Ratings',
         color='Country', title="Ratings vs Price",
         hover_name='Name'
     )
 
-    
+
     food_counts = filtered_df['Food pairings'].explode().value_counts()
     bar_fig = px.bar(
         food_counts, x=food_counts.index, y=food_counts.values,
@@ -214,6 +251,14 @@ def update_charts(selected_countries, selected_styles, price_range):
     box_fig = px.box(
         filtered_df, x='Country', y='Alcohol content', color='Country',
         title="Alcohol Content by Country", color_discrete_sequence=px.colors.qualitative.Safe
+
+    )
+
+    pie_fig = px.pie(
+        filtered_df, names='Wine style', title="Wine Style Distribution",
+        color_discrete_sequence=px.colors.sequential.RdBu
+    )
+
     )
 
     
@@ -224,6 +269,8 @@ def update_charts(selected_countries, selected_styles, price_range):
 
     return hist_fig, scatter_fig, bar_fig, box_fig, pie_fig
 
+
+    return hist_fig, scatter_fig, bar_fig, box_fig, pie_fig
 
 if __name__ == '__main__':
     app.run_server(debug=True)
