@@ -59,7 +59,6 @@ wine_df.info()
 
 # Create a new column with row numbers starting from 1
 wine_df.insert(0, "Index", range(1, len(wine_df) + 1))
-wine_df.drop(columns=['Unnamed: 0'])
 
 # Display the updated DataFrame
 print(wine_df)
@@ -115,7 +114,5 @@ print(non_regular_wines)
 print("Wines below 9% alcohol are low-alcohol wines, like Moscato or low-alcohol Riesling. Wines above 16% are high-alcohol, typically fortified wines like Port or Sherry.")
 
 #save files
-output_path = "data/processed/process_wine_data.csv"
-wine_df.to_csv(output_path, index=False)
-
-#hh
+#output_path = "data/processed/process_wine_data.csv"
+#wine_df.to_csv(output_path, index=False)
