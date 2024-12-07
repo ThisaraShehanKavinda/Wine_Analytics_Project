@@ -1,0 +1,370 @@
+,Name,Rating,Number of Ratings,Price,Region,Winery,Wine style,Alcohol content,Grapes,Food pairings,Bold,Tannin,Sweet,Acidic
+0,Komokabras Barrica 2019,4.0,45,27.17,Spain / Galicia / Barbanza e Iria,Entre os Ríos,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",21.0,46.29526972,30.9,55.24
+1,Tarima Hill Old Vines Monastrell 2014,3.9,2525,15.99,Spain / Valencia / Alicante,Volver,Spanish Monastrell,15.0,100 Monastrell,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",59.55,69.08,8.97,55.08
+2,Ribera del Duero JC Vizcarra 2013,3.9,148,34.95,Spain / Castilla y León / Ribera del Duero,Vizcarra,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",66.2,55.74,4.03,63.79
+3,El Rapolao (Lomas de Valtuille) 2019,4.1,232,37.94,Spain / Castilla y León / Bierzo,La Vizcaína,Spanish Mencia,13.5,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",52.73,43.36,8.03,64.54
+4,Getariako Txakolina White 2019,3.9,79,19.99,Spain / País Vasco / Getariako Txakolina,Ulacia,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+5,El Zarzal Godello 2018,3.9,719,28.49,Spain / Castilla y León / Bierzo,Emilio Moro,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+6,Mia Moscato N.V.,3.8,4490,10.99,Spain / Catalunya,Freixenet,Spanish Sparkling,7.0,100 Moscatel,"['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif']",41.39,46.29526972,9.05,43.94
+7,Unfiltered Reserva 2017,4.2,937,33.99,Spain / Rioja,Muga,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",66.29,62.24,2.93,63.02
+8,Jaun de Alzate Reserva 2015,4.3,45,21.99,Spain / Rioja / Rioja Alavesa,Bodegas Loli Casado,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",65.37,64.31,9.05,59.47
+9,Ancestral de la Vinya del Mas 2016,3.8,63,39.99,Spain / Catalunya / Penedès,Vins Pepe Raventós,Spanish Sparkling,13.79454297,,"['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif']",40.23,46.29526972,9.05,54.32
+10,Las Gravas 2019,4.1,274,39.94,Spain / Murcia / Jumilla,Casa Castillo,Spanish Rhône Blend Red,14.5,"Shiraz/Syrah, Monastrell","['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",84.85,61.51,10.59,66.47
+11,Nisia Las Suertes Verdejo Old Vines 2018,4.3,57,34.99,Spain / Castilla y León / Rueda,Ordóñez,Spanish Verdejo,13.0,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",24.76,46.29526972,24.36,49.18
+12,Solar de Estraunza Reserva 2015,4.4,41,23.99,Spain / Rioja,Bodegas Estraunza,Spanish Tempranillo,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",74.65,59.49,3.38,34.75
+13,Jumilla Blue Label 2019,4.4,1872,33.99,Spain / Murcia / Jumilla,Juan Gil,Spanish Monastrell,15.0,100 Mourvedre,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",67.61,50.21,18.19,46.0
+14,Blanco 2020,3.8,230,14.99,Spain / Castilla y León / Rueda,Shaya,Spanish Verdejo,13.5,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",23.16,46.29526972,23.79,50.21
+15,Reserva 2006,4.1,77,16.99,Spain / Rioja,Larchago,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",68.78,62.46,9.05,65.38
+16,Tintilla 2017,4.0,153,21.99,Spain / Andalucía / Cádiz,Vara Y Pulgar,Spanish Red,13.0,100 Tintilla de Rota,"['Beef', 'Pasta', 'Veal', 'Poultry']",61.64,39.75,15.27,48.2
+17,Joven de Viñas Viejas 2020,4.1,71,26.99,Spain / Castilla y León / Ribera del Duero,Goyo Garcia Viadero,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",64.24,62.51,5.64,66.42
+18,Ribera del Duero JC Vizcarra 2013,3.9,148,34.95,Spain / Castilla y León / Ribera del Duero,Vizcarra,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",66.2,55.74,4.03,63.79
+19,Tinto 2013,3.8,1253,19.5,Spain / Castilla / La Mancha,El Vínculo,Spanish Tempranillo,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",76.65,61.08,13.03,36.86
+20,Via Edetana Tinto 2016,3.9,239,21.99,Spain / Catalunya / Terra Alta,Edetària,Spanish Red,14.5,"50 Garnacha Peluda, 30 Garnacha, 20 Carignan","['Beef', 'Pasta', 'Veal', 'Poultry']",63.69,43.58,10.69,49.92
+21,Crianza 2017,3.8,40,22.5,Spain / Castilla y León / Ribera del Duero,Convento Oreja,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",63.52,51.92,11.74,53.63
+22,Selección 2000,4.1,286,36.99,Spain / Rioja,Bodegas Urbina,Spanish Rioja Red,13.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",62.69,58.21,1.78,61.0
+23,La Caprichosa Verdejo 2019,4.0,674,17.14,Spain / Castilla y León / Rueda,Palacio de Bornos,Spanish Verdejo,13.5,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",32.45,46.29526972,26.05,53.11
+24,Cepas Centenarias 2012,3.8,70,28.99,Spain / Rioja / Rioja Alta,Tarón,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",57.58,59.47,4.98,58.78
+25,Casamaro Verdejo 2019,4.0,288,18.99,Spain / Castilla y León / Rueda,Garciarevalo,Spanish Verdejo,12.5,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",17.59,46.29526972,22.89,51.02
+26,Rioja 2020,3.8,90,12.99,Spain / Rioja,Honoro Vera,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",60.28,63.16,8.54,59.54
+27,Albarino 2021,4.0,286,18.99,Spain / Galicia / Rías Baixas,La Caña,Spanish Albariño,13.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",2.74,46.29526972,59.54,57.93
+28,Ama 2019,4.2,27,38.99,Spain / País Vasco / Bizkaiko Txakolina,Gorka Izagirre,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+29,Camins del Priorat 2020,4.1,2244,24.99,Spain / Catalunya / Priorat,Álvaro Palacios,Spanish Priorat Red,14.5,100 Garnacha,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",83.68,47.91,9.56,53.7
+30,Albariño 2018,4.2,77,29.05,Spain / Galicia / Rías Baixas,Compañía de Vinos Tricó,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",14.97,46.29526972,37.67,59.95
+31,No. 2 Victoria 2015,4.3,523,29.99,Spain / Andalucía / Málaga,Jorge Ordóñez,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+32,Gago G 2017,3.8,89,24.99,Spain / Castilla y León / Toro,Telmo Rodriguez,Spanish Toro Red,14.5,100 Tinta de toro,"['Beef', 'Lamb', 'Game (deer, venison)']",76.55,52.9,8.8,34.65
+33,Time Waits For No One (Red label) 2017,3.8,3070,16.99,Spain / Murcia / Jumilla,Finca Bacara,Spanish Monastrell,15.0,100 Monastrell,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",59.01,68.06,10.94,54.05
+34,PSI 2014,4.1,5112,39.99,Spain / Castilla y León / Ribera del Duero,Dominio de Pingus,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",63.99,56.13,9.12,60.4
+35,Rioja Crianza 2017,4.0,2402,16.99,Spain / Rioja,Carlos Serres,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",56.61,58.48,10.71,57.27
+36,Mirabrás 2017,3.9,145,42.85,Spain / Andalucía / Cádiz,Barbadillo,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+37,Flor de Morca 2019,4.0,832,16.99,Spain / Aragón / Campo de Borja,Morca,Spanish Grenache,15.5,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",71.26,46.08,20.39,45.05
+38,Garnacha 2015,3.8,31,16.99,Spain / Rioja,Ramon Cardova,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",69.2,70.46,9.05,63.68
+39,Parcelas en Altura Ribera del Duero 2018,3.8,178,24.99,Spain / Castilla y León / Ribera del Duero,Rolland & Galarreta 'R&G',Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",64.54,57.51,9.46,58.54
+40,Reserva Rioja (Finca Ygay) 2015,4.1,10034,25.99,Spain / Rioja,Marqués de Murrieta,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.99,59.42,9.16,60.24
+41,No. 1 Red Sangria Frizzante N.V.,4.1,2067,18.99,Spain / Aragón,Lolea,Spanish Sparkling,7.0,"Tempranillo, Cabernet Sauvignon","['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif']",40.22,46.29526972,9.05,46.12
+42,Atteca Garnacha (Old Vines) 2019,4.0,290,15.99,Spain / Aragón / Calatayud,Bodegas Ateca,Spanish Grenache,15.0,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,40.56,10.81,43.68
+43,Albacea Monastrell Jumilla 2020,4.1,57,14.99,Spain / Murcia / Jumilla,Juan Gil,Spanish Monastrell,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",58.64,68.38,12.8,52.55
+44,Reserva 2011,4.2,68,24.99,Spain / Rioja,Eduardo Garrido Garcia,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",67.71,53.24,6.25,54.86
+45,UBE de Ubérrima Miraflores 2020,4.0,274,32.0,Spain / Vino de España,Cota 45,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+46,PSI 2019,4.2,2628,34.99,Spain / Castilla y León / Ribera del Duero,Dominio de Pingus,Spanish Ribera Del Duero Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",63.99,56.13,9.12,60.4
+47,Lacrimus 2009,3.8,62,21.99,Spain / Rioja,Miura,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",65.14,74.47,9.05,60.71
+48,Character Medium Dry Amontillado Sherry N.V.,3.8,138,16.99,Spain / Andalucía / Jerez-Xérès-Sherry / Amontillado Sherry,Sandeman,Spanish Sherry,17.5,100 Pedro Ximenez,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",65.28,46.29526972,68.51,64.91
+49,Viña Alberdi Reserva 2016,4.2,5196,20.99,Spain / Rioja,La Rioja Alta,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.22,60.13,6.09,61.46
+50,Almiréz 2007,3.9,104,29.99,Spain / Castilla y León / Toro,Teso La Monja,Spanish Toro Red,14.5,Tinta de toro,"['Beef', 'Lamb', 'Game (deer, venison)']",76.61,53.11,9.37,35.83
+51,Rioja Reserva 2015,4.0,509,28.99,Spain / Rioja,Torre de Oña,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",62.94,62.05,8.68,61.61
+52,Rioja Reserva 2016,3.8,127,15.99,Spain / Rioja,Muriel,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.57,60.81,5.45,63.23
+53,Crianza 2018,3.8,68,35.99,Spain / Castilla y León / Ribera del Duero,Trus,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",62.78,52.03,12.25,58.99
+54,Crianza Tinto 2017,4.2,3405,37.16,Spain / Castilla y León / Ribera del Duero,Pago de Los Capellanes,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",64.36,54.31,12.53,59.53
+55,VO CAL 2017,3.9,107,39.0,Spain / Castilla y León / Bierzo,Veronica Ortega,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+56,Garnacha 2016,4.0,147,24.99,Spain / Rioja,Tobelos,Spanish Rioja Red,14.0,100 Garnacha,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.39,63.69,16.0,60.54
+57,Vi de Vila Blanco 2019,3.9,38,37.99,Spain / Catalunya / Priorat,Cims de Porrera,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+58,AGNVS Crianza Tempranillo 2016,4.0,90,15.95,Spain / Rioja,Bodegas Valdelana,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",62.28,65.28,9.84,57.17
+59,Muga Rosado 2021,3.9,433,19.99,Spain / Rioja,Muga,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+60,Pena do Lobo 2015,3.9,48,26.99,Spain / Galicia / Ribeira Sacra,Bodega Losada Fernandez,Spanish Mencia,12.5,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",54.36,39.86,5.22,61.23
+61,Igrexario de Saiar Albariño 2019,4.0,63,17.5,Spain / Galicia / Rías Baixas,Benito Santos,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",4.34,46.29526972,54.79,57.27
+62,Finca Rosalejo Eldoze Single Vineyard 2014,4.0,26,33.99,Spain / Castilla / La Mancha,Rolland & Galarreta 'R&G',Spanish Syrah,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",71.95,52.0,6.05,52.56
+63,Palo Cortado Península Jerez-Xérès-Sherry Seco-Dry N.V.,4.0,1045,25.99,Spain / Andalucía / Jerez-Xérès-Sherry,Lustau,Spanish Sherry,19.0,Palomino,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",64.6,46.29526972,37.95,61.93
+64,Blanc Selecció 2020,4.0,223,18.99,Spain / Catalunya / Penedès,Huguet de Can Feixes,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+65,Rioja Blanco 2019,4.0,391,23.99,Spain / Rioja / Rioja Alavesa,Ostatu,Spanish Rioja White,13.0,"Malvasia, Viura","['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Cured Meat']",75.82,46.29526972,10.39,54.29
+66,Porrera (Vi di la Vila) 2018,4.2,32,24.99,Spain / Catalunya / Priorat,Black Slate,Spanish Priorat Red,15.0,100 Grenache,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,48.92,6.39,54.17
+67,Granbazán Etiqueta Verde Albariño 2020,3.9,976,25.99,Spain / Galicia / Rías Baixas,Agro de Bazán,Spanish Albariño,13.0,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",10.22,46.29526972,42.96,60.73
+68,Castroviejo Gran Reserva 2016,4.4,57,24.99,Spain / Rioja,Pastor Diaz,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",39.4,72.09,12.76,55.99
+69,Sarada Calizo 2019,3.9,66,15.17,Spain / Castilla / Almansa,Venta La Vega - Bodegas Almanseñas,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",63.44,38.0,2.9,42.36
+70,4R Cuatro Rayas Verdejo 2019,3.8,679,14.99,Spain / Castilla y León / Rueda,Cuatro Rayas,Spanish Verdejo,13.79454297,,[],61.73,46.29526972,9.05,53.555
+71,Atteca Garnacha (Old Vines) 2018,4.0,590,15.99,Spain / Aragón / Calatayud,Bodegas Ateca,Spanish Grenache,15.0,100 Grenache,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,40.56,10.81,43.68
+72,Finca Meixeman Ribeira Sacra Mencia 2014,3.8,494,39.99,Spain / Galicia / Ribeira Sacra,Guimaro,Spanish Mencia,13.79454297,,"['Veal', 'Game (deer, venison)', 'Poultry']",51.46,41.99,3.23,65.15
+73,Via Edetana Blanca 2019,3.8,99,24.99,Spain / Catalunya / Terra Alta,Edetària,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+74,E (Spain) N.V.,3.9,9082,19.99,Spain / Vino de España,Locations,Spanish Red,14.5,100 Grenache,"['Beef', 'Pasta', 'Veal', 'Poultry']",68.27,37.58,7.62,43.94
+75,Ribera del Duero Crianza 2011,3.8,1537,19.99,Spain / Castilla y León / Ribera del Duero,Legaris,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",66.18,56.97,13.07,61.48
+76,Rosé (Grenache - Cabernet Sauvignon) 2020,4.1,26,12.5,Spain / Aragón / Campo de Borja,Los Dos,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+77,Mucho Más Tinto N.V.,4.2,40271,14.99,Spain / Vino de España,Félix Solís,Spanish Red,14.0,"Shiraz/Syrah, Tempranillo","['Beef', 'Pasta', 'Veal', 'Poultry']",63.0,38.75,33.21,33.01
+78,Martinsancho Verdejo Rueda 2015,3.8,184,17.99,Spain / Castilla y León / Rueda,Angel Rodriguez,Spanish Verdejo,13.0,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",21.81,46.29526972,23.78,53.57
+79,Escobal 2018,3.8,115,24.0,Spain / Rioja / Rioja Alavesa,Ostatu,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",53.21,57.26,27.41,53.22
+80,Goru Gold 2017,3.8,3716,10.65,Spain / Murcia / Jumilla,EGO,Spanish Red,14.5,100 Monastrell,"['Beef', 'Pasta', 'Veal', 'Poultry']",67.43,42.27,6.53,46.59
+81,Entresuelos Tempranillo 2017,3.8,589,16.99,Spain / Castilla y León,Tridente,Spanish Tempranillo,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",77.34,59.88,6.3,37.49
+82,Albariño Rías Baixas 2020,3.8,75,19.99,Spain / Galicia / Rías Baixas,Lagar Da Condesa,Spanish Albariño,12.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",13.59,46.29526972,43.42,59.31
+83,Blanco 2021,4.0,170,28.99,Spain / País Vasco / Getariako Txakolina,Ameztoi,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+84,Donzella 2016,3.9,26,15.99,Spain / Catalunya / Penedès,Suriol,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+85,Jumilla Blue Label 2020,4.3,116,30.98,Spain / Murcia / Jumilla,Juan Gil,Spanish Monastrell,15.0,100 Mourvedre,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",67.61,50.21,18.19,46.0
+86,Ribera del Duero Tinto 2009,3.9,1910,10.99,Spain / Castilla y León / Ribera del Duero,Cepa 21,Spanish Ribera Del Duero Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",64.2,56.78,13.11,60.84
+87,Palacio Quemado La Zarcita 2018,3.8,252,18.0,Spain / Extremadura,Alvear,Spanish Red,14.0,"Shiraz/Syrah, Cabernet Sauvignon, Tempranillo","['Beef', 'Pasta', 'Veal', 'Poultry']",66.91,43.94,9.86,47.34
+88,Cava Vintage Brut 2019,3.8,110,16.99,Spain / Cava,Naveran,Spanish Cava,13.79454297,,"['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif', 'Cured Meat']",45.06,46.29526972,9.05,58.01
+89,Mart Xarel-lo Vermell 2020,4.0,241,26.0,Spain / Catalunya / Penedès,Gramona,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+90,Pirámide Crianza 2017,4.4,38,29.99,Spain / Castilla y León / Ribera del Duero,Bodegas Montegaredo,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",67.5,63.38,9.05,65.17
+91,La Vitoriana (Lomas de Valtuille) 2014,4.1,84,44.99,Spain / Castilla y León / Bierzo,La Vizcaína,Spanish Mencia,13.79454297,,"['Veal', 'Game (deer, venison)', 'Poultry']",54.07,43.61,4.61,66.76
+92,La Atalaya del Camino 2019,4.2,1382,16.98,Spain / Castilla / Almansa,Atalaya,Spanish Red,14.5,"85 Garnacha Tintorera, 15 Monastrell",[],61.73,46.29526972,9.05,53.555
+93,Gran Reserva Ribera del Duero 2014,4.0,429,27.99,Spain / Castilla y León / Ribera del Duero,Condado de Oriza,Spanish Ribera Del Duero Red,14.0,Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",61.83,58.39,9.1,61.01
+94,Selección La Aguilera 2016,4.2,740,24.99,Spain / Castilla y León / Ribera del Duero,Dominio de Cair,Spanish Ribera Del Duero Red,14.0,Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",59.69,62.91,16.04,58.39
+95,Mucho Mas Rosado N.V.,3.8,503,12.99,Spain / Vino de España,Félix Solís,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+96,Gran Reserva Rioja 2012,3.9,501,30.36,Spain / Rioja,Viña Bujanda,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.34,57.68,6.3,59.68
+97,Atalayas de Golbán Ribera del Duero Crianza 2016,3.8,183,19.98,Spain / Castilla y León / Ribera del Duero,Dominio de Atauta,Spanish Ribera Del Duero Red,14.5,100 Tinto Fino,"['Beef', 'Lamb', 'Game (deer, venison)']",65.08,56.5,18.34,58.47
+98,Granbazán Albariño Etiqueta Ámbar 2021,4.1,326,28.99,Spain / Galicia / Rías Baixas,Agro de Bazán,Spanish Albariño,12.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",10.98,46.29526972,46.32,58.18
+99,Jumilla Yellow Label 2019,3.8,1906,19.99,Spain / Murcia / Jumilla,Juan Gil,Spanish Monastrell,14.5,100 Monastrell,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",58.26,67.77,14.54,54.02
+100,Viñas del lago 2018,3.9,100,25.99,Spain / Castilla y León / Ribera del Duero,Marta Mate,Spanish Ribera Del Duero Red,13.5,"88 Tempranillo, 7 Garnacha, 5 Albillo","['Beef', 'Lamb', 'Game (deer, venison)']",49.81,51.58,29.65,53.02
+101,Rias Baixas Albariño 2015,4.0,715,26.95,Spain / Galicia / Rías Baixas,Do Ferreiro (Bodegas Gerardo Mendez),Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",12.93,46.29526972,40.3,60.7
+102,G22 Blanc 2019,3.9,221,19.99,Spain / País Vasco / Bizkaiko Txakolina,Gorka Izagirre,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+103,Pétalos 2020,4.0,805,22.99,Spain / Castilla y León / Bierzo,Descendientes de J. Palacios,Spanish Mencia,14.1,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",53.03,41.87,5.33,64.64
+104,Single Vineyard Tempranillo 2019,4.0,330,18.14,Spain / Castilla / La Mancha,Volver,Spanish Tempranillo,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",75.69,53.61,8.4,36.98
+105,Crianza 2016,3.9,602,17.37,Spain / Rioja,Proelio,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",59.77,59.85,13.01,57.3
+106,Única Reserva 2016,4.0,287,29.99,Spain / Rioja,Sierra Cantabria,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.85,62.07,7.64,61.87
+107,Kentia Albariño 2020,3.8,102,17.99,Spain / Galicia / Rías Baixas,Orowines,Spanish Albariño,13.0,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",7.0,46.29526972,49.61,59.65
+108,Crianza Rioja 2017,3.8,2378,17.99,Spain / Rioja,Lan,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",61.47,61.5,8.27,61.21
+109,Goru Gold 2017,3.8,3716,10.65,Spain / Murcia / Jumilla,EGO,Spanish Red,14.5,100 Monastrell,"['Beef', 'Pasta', 'Veal', 'Poultry']",67.43,42.27,6.53,46.59
+110,Emilín Moscatel Sherry (Solera Reserva) N.V.,4.0,835,27.99,Spain / Andalucía / Jerez-Xérès-Sherry,Lustau,Spanish Sherry,17.0,100 Muscat of Alexandria,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",69.7,46.29526972,73.28,62.01
+111,Pampaneo Airén Natural 2020,3.9,94,20.83,Spain / Castilla / La Mancha,Bodega Bruno Ruiz - Esencia Rural,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+112,Gulp Hablo Verdejo 2020,3.8,166,22.99,Spain / Castilla / La Mancha,Bodegas Ponce,Spanish Verdejo,13.79454297,,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",18.38,46.29526972,21.86,53.61
+113,Carrasviñas Rueda Verdejo 2020,3.9,511,18.33,Spain / Castilla y León / Rueda,Bodegas Félix Lorenzo Cachazo,Spanish Verdejo,13.2,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",27.42,46.29526972,22.0,50.48
+114,Castroviejo Reserva 2016,4.3,141,19.99,Spain / Rioja,Pastor Diaz,Spanish Rioja Red,13.5,"Tempranillo, Graciano","['Beef', 'Lamb', 'Veal', 'Poultry']",65.28,62.8,5.01,62.05
+115,Casamaro Verdejo 2020,3.8,183,18.99,Spain / Castilla y León / Rueda,Garciarevalo,Spanish Verdejo,12.5,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",17.59,46.29526972,22.89,51.02
+116,Albariño 2021,3.8,103,15.74,Spain / Galicia / Rías Baixas,Viña Nora,Spanish Albariño,13.0,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",6.8,46.29526972,54.08,55.82
+117,Tempranillo 2019,3.9,64,15.99,Spain / Rioja,Larchago,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.04,59.87,0.57,59.53
+118,12 Linajes Crianza 2014,3.9,350,24.99,Spain / Castilla y León / Ribera del Duero,Bodegas Gormaz,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",66.24,56.64,7.52,62.29
+119,Pies Negros Rioja 2018,3.8,780,19.5,Spain / Rioja,Artuke,Spanish Rioja Red,14.0,"90 Tempranillo, 10 Graciano","['Beef', 'Lamb', 'Veal', 'Poultry']",60.91,61.02,8.52,57.63
+120,Tinto 2012,3.8,81,30.61,Spain / Catalunya / Priorat,Terres de Vidalba,Spanish Priorat Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",82.31,61.48,3.67,60.83
+121,Leirana Albariño 2020,3.9,320,29.99,Spain / Galicia / Rías Baixas,Forjas del Salnés,Spanish Albariño,13.0,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",12.34,46.29526972,45.49,60.43
+122,Svmma Varietalis Red Blend (Summa) 2012,4.1,479,22.99,Spain / Castilla / Dominio de Valdepusa,Marqués de Griñon,Spanish Red,14.5,"Shiraz/Syrah, Cabernet Sauvignon, Petit Verdot","['Beef', 'Pasta', 'Veal', 'Poultry']",67.59,46.48,10.49,44.93
+123,Albarino 2020,4.1,921,22.99,Spain / Galicia / Rías Baixas,La Caña,Spanish Albariño,13.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",2.74,46.29526972,59.54,57.93
+124,Tosca Cerrada 2017,3.9,154,33.0,Spain / Andalucía / Cádiz,Delgado Zuleta,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+125,Termes 2017,4.0,1194,20.99,Spain / Castilla y León / Toro,Bodega Numanthia,Spanish Toro Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",78.53,52.86,5.47,34.38
+126,Stimatum 2020,3.8,34,20.99,Spain / País Vasco / Getariako Txakolina,Ameztoi,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",60.26,43.94,4.92,54.09
+127,Reserva Rioja (Finca Ygay) 2017,4.2,2950,26.99,Spain / Rioja,Marqués de Murrieta,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.99,59.42,9.16,60.24
+128,I Gran Reserva 2010,4.0,4193,33.99,Spain / Rioja,Bodegas Faustino,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",62.05,58.31,8.06,59.81
+129,Termes 2018,4.0,488,18.99,Spain / Castilla y León / Toro,Bodega Numanthia,Spanish Toro Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",78.53,52.86,5.47,34.38
+130,Cepas Antiguas Selección Privada 2018,3.8,71,18.0,Spain / Rioja,Martinez Corta,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",61.41,63.19,4.0,61.73
+131,Xarel-Lo 2020,4.0,366,21.23,Spain / Catalunya / Penedès,Can Sumoi,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+132,Dominio de Taurum 2020,4.2,67,18.99,Spain / Castilla y León / Toro,Lui & William Wines,Spanish Toro Red,14.5,100 Tinta de toro,"['Beef', 'Lamb', 'Game (deer, venison)']",78.04,56.02,10.58,34.01
+133,Rioja Gran Reserva 2013,4.3,181,19.99,Spain / Rioja,Finca Los Principes,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",62.66,62.49,1.72,63.35
+134,Moscatel Old Vines 2015,4.0,775,19.99,Spain / Andalucía / Sierras de Málaga,Botani,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+135,Viña Lanciano Reserva 2015,4.2,652,26.99,Spain / Rioja,Lan,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.67,60.49,13.27,60.14
+136,Jumilla Silver Label 2018,3.9,5292,15.99,Spain / Murcia / Jumilla,Juan Gil,Spanish Monastrell,15.0,100 Mourvedre,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",59.89,67.52,15.24,53.15
+137,Viña Santurnia Crianza 2017,3.8,100,19.99,Spain / Rioja,Ramon de Ayala,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",65.7,64.58,12.68,60.35
+138,Tempranillo 2015,4.0,73,22.99,Spain / Rioja,Rolland & Galarreta 'R&G',Spanish Rioja Red,14.0,Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.33,63.78,5.79,62.51
+139,Tinto 2018,4.2,125,19.99,Spain / Catalunya / Priorat,Coster dels Olivers,Spanish Priorat Red,15.0,"Cabernet Sauvignon, Grenache, Carignan","['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,46.27,1.0,57.61
+140,Blanc de Blancs Brut 2014,3.8,643,39.99,Spain / Catalunya / Penedès,Raventós i Blanc,Spanish Cava,12.0,100 Macabeo,"['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif', 'Cured Meat']",40.19,46.29526972,9.05,58.38
+141,El Chaparral de Vega Sindoa Old Vines Garnacha 2018,3.9,372,19.99,Spain / Navarra,Bodegas Nekeas,Spanish Grenache,15.0,100 Grenache,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",84.89,40.14,8.23,45.86
+142,A de Arinzano Rosé 2021,3.9,30,9.95,Spain / Navarra,Arínzano,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+143,Acústic Negre 2014,3.8,803,16.99,Spain / Catalunya / Tarragona / Montsant,Acustic Celler,Spanish Montsant Red,15.0,"Cariñena, Garnacha","['Beef', 'Pasta', 'Lamb']",75.65,49.25,13.68,53.92
+144,Celebrities Merlot 2018,3.8,115,10.99,Spain / Aragón / Cariñena,San Valero,Spanish Merlot,13.79454297,,"['Beef', 'Lamb', 'Veal']",67.5,36.63,2.5,22.66
+145,Ribera del Duero 2016,4.0,1110,32.99,Spain / Castilla y León / Ribera del Duero,Finca Villacreces,Spanish Ribera Del Duero Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",66.05,56.78,8.09,59.8
+146,Selección Albariño 2018,3.8,31,21.0,Spain / Galicia / Rías Baixas,Quinta de Couselo,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",61.73,46.29526972,73.68,46.26
+147,Agricultura Biológica Merlot 2015,4.0,113,19.95,Spain / Navarra / Arínzano,Arínzano,Spanish Merlot,13.79454297,,"['Beef', 'Lamb', 'Veal']",64.74,34.18,4.51,27.42
+148,O Gran Meín Blanco 2019,4.1,42,43.0,Spain / Galicia / Ribeiro,Viña Meín,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+149,Rioja Crianza 2016,3.9,1583,14.97,Spain / Rioja,Valserrano,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.79,63.56,5.1,62.91
+150,Reserva Rioja 2015,3.9,193,32.99,Spain / Rioja,Obalo,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.66,66.3,10.6,60.32
+151,Cuvée de O Mencia 2017,3.8,226,20.99,Spain / Galicia / Valdeorras,Avancia,Spanish Mencia,13.0,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",54.23,43.34,5.11,65.18
+152,Blau 2018,3.8,1810,15.99,Spain / Catalunya / Tarragona / Montsant,Can Blau,Spanish Montsant Red,14.5,100 Mazuelo,"['Beef', 'Pasta', 'Lamb']",77.46,48.85,6.64,54.79
+153,L'Efecte Volador Montsant 2019,3.8,205,19.99,Spain / Catalunya / Tarragona / Montsant,Josep Grau Viticultor,Spanish Montsant Red,13.79454297,,"['Beef', 'Pasta', 'Lamb']",69.91,46.08,11.17,52.5
+154,Cava Rosé N.V.,4.0,447,12.99,Spain / Cava,Castell de Sant Pau,Spanish Cava,11.0,"Grenache, Trepat","['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif', 'Cured Meat']",32.57,46.29526972,9.05,56.7
+155,Cava Brut Nature N.V.,4.0,777,12.99,Spain / Cava,Castell de Sant Pau,Spanish Cava,14.0,"Macabeo, Xarel-lo, Parellada","['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif', 'Cured Meat']",42.64,46.29526972,9.05,55.9
+156,PSI 2015,4.1,4478,39.99,Spain / Castilla y León / Ribera del Duero,Dominio de Pingus,Spanish Ribera Del Duero Red,14.5,100 Tinto Fino,"['Beef', 'Lamb', 'Game (deer, venison)']",63.99,56.14,9.12,60.4
+157,Rubentis 2020,4.2,434,25.0,Spain / País Vasco / Getariako Txakolina,Ameztoi,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+158,Reserva 2017,4.1,3151,32.99,Spain / Rioja,Muga,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",65.67,62.39,10.23,61.36
+159,Conde de Valdemar Reserva 2015,4.1,317,28.99,Spain / Rioja,Bodegas Valdemar,Spanish Rioja Red,14.0,"Garnacha, Tempranillo, Graciano","['Beef', 'Lamb', 'Veal', 'Poultry']",62.6,60.61,9.33,59.52
+160,Aurora Pedro Ximenez Sherry N.V.,4.0,356,28.99,Spain / Andalucía / Jerez-Xérès-Sherry / Pedro Ximénez Sherry (PX),Bodegas Yuste,Spanish Pedro Ximenez,15.0,100 Pedro Ximenez,"['Sweet desserts', 'Blue cheese']",84.11,46.29526972,85.0,44.48
+161,Resalte Expresion 2011,4.3,569,24.97,Spain / Castilla y León / Ribera del Duero,Resalte,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",68.1,57.83,12.13,59.37
+162,Orot Roble 2017,3.8,64,14.29,Spain / Castilla y León / Toro,Toresanas,Spanish Toro Red,14.5,Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",74.25,48.27,12.11,37.45
+163,Crianza 2014,3.8,1193,11.99,Spain / Rioja,Armentia y Madrazo,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",55.49,52.95,8.54,55.91
+164,Jaun de Alzate Gran Reserva 2014,4.4,38,23.99,Spain / Rioja / Rioja Alavesa,Bodegas Loli Casado,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",62.7,60.57,14.01,58.12
+165,II Gran Reserva 2011,4.1,28,38.99,Spain / Rioja,Covila,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",67.22,70.47,12.29,67.35
+166,Rioja Rosé 2021,4.0,69,22.99,Spain / Rioja / Rioja Alavesa,Ostatu,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+167,Fuerza 2017,3.9,452,15.99,Spain / Murcia / Jumilla,EGO,Spanish Monastrell,14.5,"Cabernet Sauvignon, Monastrell","['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",58.24,68.01,11.26,54.31
+168,Cepas Vellas Godello 2020,4.2,217,27.99,Spain / Galicia / Valdeorras,Godeval,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+169,Cava Reserva Heredad Brut,3.9,15683,26.99,Spain / Cava,Segura Viudas,Spanish Cava,12.0,"Macabeo, Parellada",[],61.73,46.29526972,9.05,53.555
+170,Artuke Rioja 2020,3.8,596,16.99,Spain / Rioja,Artuke,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",52.9,58.42,13.72,60.45
+171,Art Collection 2019,3.9,48,10.99,Spain / Rioja,Bodegas Faustino,Spanish Rioja Red,12.6,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",53.4,56.46,17.51,54.5
+172,Peraj Petita Montsant 2018,3.8,122,23.99,Spain / Catalunya / Tarragona / Montsant,Celler de Capçanes,Spanish Montsant Red,14.0,"Tempranillo, Grenache","['Beef', 'Pasta', 'Lamb']",71.85,48.47,7.21,56.67
+173,Rueda Verdejo 2020,3.8,1536,10.99,Spain / Castilla y León / Rueda,Marqués de Cáceres,Spanish Verdejo,13.5,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",23.48,46.29526972,23.7,53.39
+174,Solanera Viñas Viejas 2017,3.8,528,17.99,Spain / Murcia / Yecla,Castaño,Spanish Red,14.5,100 Mourvedre,"['Beef', 'Pasta', 'Veal', 'Poultry']",67.35,41.7,11.17,44.48
+175,Dido Macabeu - Garnatxa - Cartoixa 2018,3.9,364,29.99,Spain / Catalunya / Tarragona / Montsant,Venus la Universal,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+176,Albariño 2016,4.0,142,24.95,Spain / Galicia / Rías Baixas,Pazo Pondal,Spanish Albariño,12.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",13.46,46.29526972,37.35,60.06
+177,Destí 2017,4.2,246,39.99,Spain / Catalunya / Priorat,Merum Priorati,Spanish Priorat Red,16.0,"Shiraz/Syrah, Carignan","['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",78.4,47.89,15.11,50.73
+178,East India Solera Sherry N.V.,4.0,3004,22.99,Spain / Andalucía / Jerez-Xérès-Sherry,Lustau,Spanish Sherry,20.0,100 Pedro Ximenez,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",68.96,46.29526972,71.72,59.22
+179,VN (Vinel-Lo Blanco) 2019,4.0,259,35.0,Spain / Catalunya / Penedès,Partida Creus,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+180,Pegaso Granito 2014,3.9,93,39.94,Spain / Castilla y León,Telmo Rodriguez,Spanish Grenache,15.0,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",79.67,38.65,13.79,44.51
+181,Giné Giné 2019,4.0,61,23.99,Spain / Catalunya / Priorat,Buil & Giné,Spanish Priorat Red,15.0,Carignan,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,50.32,7.18,55.66
+182,El Molar 2017,3.8,425,17.94,Spain / Murcia / Jumilla,Casa Castillo,Spanish Grenache,15.0,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",79.14,42.86,12.37,48.85
+183,Hacienda El Indiano 2011,3.8,83,20.09,Spain / Rioja,El Indiano,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.85,74.03,9.05,69.49
+184,Moscatel Old Vines 2019,4.0,376,19.99,Spain / Andalucía / Sierras de Málaga,Botani,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+185,Treixadura 2019,3.9,25,18.99,Spain / Galicia / Ribeiro,Beade Primacia,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+186,Cerro Añon Rioja Gran Reserva 2015,4.2,858,21.99,Spain / Rioja,Bodegas Olarra,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",67.27,58.04,6.32,57.68
+187,Naturaleza Salvaje Clarete 2020,4.0,168,33.0,Spain / Navarra,Azul y Garanza,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+188,Moscatel Old Vines 2016,4.0,369,19.99,Spain / Andalucía / Sierras de Málaga,Botani,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+189,Legado del Conde Albariño 2020,4.0,61,16.99,Spain / Galicia / Rías Baixas,Campante,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",0.42,46.29526972,58.82,56.53
+190,12 Linajes Reserva 2012,3.9,248,39.99,Spain / Castilla y León / Ribera del Duero,Bodegas Gormaz,Spanish Ribera Del Duero Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",65.76,54.16,7.34,61.87
+191,Rías Baixas Albariño 2017,3.8,3385,17.99,Spain / Galicia / Rías Baixas,Bodegas Martín Códax,Spanish Albariño,13.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",8.27,46.29526972,46.64,58.95
+192,Fuerza Bruta 2018,3.8,43,31.63,Spain / Madrid,A Pie de Tierra,Spanish Grenache,13.8,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",54.78,43.33,0.12,50.92
+193,Tinto 2019,4.1,79,29.99,Spain / Galicia,Fazenda Prádio,Spanish Mencia,13.79454297,,"['Veal', 'Game (deer, venison)', 'Poultry']",49.55,39.87,4.51,65.91
+194,Varietales Tempranillo Rioja 2015,4.0,514,15.99,Spain / Rioja,Baron de Ley,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",66.96,62.59,0.65,62.98
+195,Gessamí 2021,4.2,954,23.99,Spain / Catalunya / Penedès,Gramona,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+196,Gran Selección 2014,3.9,348,16.15,Spain / Aragón / Campo de Borja,Ermita de San Lorenzo,Spanish Grenache,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,39.69,9.05,44.85
+197,Muga Blanco 2020,3.8,887,17.99,Spain / Rioja,Muga,Spanish Rioja White,13.0,100 Viura,"['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Cured Meat']",74.04,46.29526972,11.46,52.05
+198,Gran Reserva 2015,4.0,2966,39.99,Spain / Rioja,Cune (CVNE),Spanish Rioja Red,13.5,"85 Tempranillo, 10 Graciano, 5 Mazuelo","['Beef', 'Lamb', 'Veal', 'Poultry']",64.24,58.62,7.22,59.82
+199,Crianza 2017,3.8,40,22.5,Spain / Castilla y León / Ribera del Duero,Convento Oreja,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",63.52,51.92,11.74,53.63
+200,Martinsancho Verdejo Rueda 2019,4.0,51,17.99,Spain / Castilla y León / Rueda,Angel Rodriguez,Spanish Verdejo,13.79454297,,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",21.81,46.29526972,23.78,53.57
+201,Rioja Gran Reserva 2011,4.1,691,18.49,Spain / Rioja,Ondarre,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",60.46,62.41,15.53,56.01
+202,Cuatro del Cuatro 2018,3.9,128,26.99,Spain / Navarra,Viña Zorzal,Spanish Red,13.5,100 Graciano,"['Beef', 'Pasta', 'Veal', 'Poultry']",58.83,46.41,9.55,53.26
+203,Viña Gormaz Crianza 2018,3.9,37,17.99,Spain / Castilla y León / Ribera del Duero,Bodegas Gormaz,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",62.68,55.02,7.15,58.79
+204,Moscatel Dorado N.V.,4.1,274,19.99,Spain / Andalucía / Jerez-Xérès-Sherry,César Florido,Spanish Sherry,17.5,"Moscatel de Alejandría, Moscatel","['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",67.73,46.29526972,70.75,64.71
+205,Cuarenta Vendimias Verdejo 2020,3.9,407,18.17,Spain / Castilla y León / Rueda,Cuatro Rayas,Spanish Verdejo,13.0,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",25.56,46.29526972,18.59,49.82
+206,Gago G 2017,3.8,89,24.99,Spain / Castilla y León / Toro,Telmo Rodriguez,Spanish Toro Red,14.5,100 Tinta de toro,"['Beef', 'Lamb', 'Game (deer, venison)']",76.55,52.9,8.8,34.65
+207,Ribera del Duero Crianza 2014,3.8,558,40.49,Spain / Castilla y León / Ribera del Duero,Viña Sastre,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",65.88,56.49,9.33,61.42
+208,Origen de Resalte 2018,4.1,262,29.99,Spain / Castilla y León / Ribera del Duero,Resalte,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",65.56,59.37,14.2,58.19
+209,Reserva 2015,3.8,7439,17.99,Spain / Rioja,Campo Viejo,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.7,59.93,6.19,61.72
+210,Mas Collet Selecció 2019,3.8,241,16.99,Spain / Catalunya / Tarragona / Montsant,Celler de Capçanes,Spanish Montsant Red,14.5,"Cabernet Sauvignon, Tempranillo, Cariñena, Garnacha","['Beef', 'Pasta', 'Lamb']",72.52,47.91,11.44,52.64
+211,Nosso Verdejo 2020,4.0,349,24.99,Spain / Castilla y León,Menade,Spanish Verdejo,13.5,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",29.98,46.29526972,27.21,47.49
+212,D-12 Rioja 2017,4.0,534,28.99,Spain / Rioja,Lan,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",60.76,61.49,10.06,60.73
+213,Finca Rosalejo Eldoze Single Vineyard 2014,4.0,26,33.99,Spain / Castilla / La Mancha,Rolland & Galarreta 'R&G',Spanish Syrah,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",71.95,52.0,6.05,52.56
+214,Ribera del Duero Crianza 2015,3.9,247,25.95,Spain / Castilla y León / Ribera del Duero,Balbas,Spanish Ribera Del Duero Red,14.0,"Cabernet Sauvignon, Tempranillo","['Beef', 'Lamb', 'Game (deer, venison)']",63.67,56.68,12.05,60.03
+215,Capataz Andrés Deluxe Cream Sherry (Solera Reserva) N.V.,3.8,684,18.99,Spain / Andalucía / Jerez-Xérès-Sherry / Cream Sherry,Lustau,Spanish Sherry,13.79454297,,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",67.17,46.29526972,70.97,64.32
+216,Reserva 2016,3.9,8245,17.99,Spain / Rioja,Campo Viejo,Spanish Rioja Red,12.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.7,59.93,6.19,61.72
+217,Selectus 2007,3.9,3770,16.94,Spain / Castilla,Finca Los Aljibes,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",64.34,40.34,5.64,44.29
+218,Getariako Txakolina 2020,4.0,65,21.75,Spain / País Vasco / Getariako Txakolina,Camino Roca Altxerri,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+219,O Fillo da Condesa Albariño 2021,3.8,122,14.99,Spain / Galicia / Rías Baixas,Lagar Da Condesa,Spanish Albariño,12.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",12.46,46.29526972,41.87,61.75
+220,Garnacha 2018,3.8,62,9.99,Spain / Aragón / Campo de Borja,Dos Molinos,Spanish Grenache,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,44.81,9.05,44.34
+221,Celeste Crianza 2018,4.0,4992,18.94,Spain / Castilla y León / Ribera del Duero,Pago del Cielo,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",64.82,54.25,8.02,60.93
+222,Rioja Reserva 2018,3.9,105,21.99,Spain / Rioja,Marqués de Cáceres,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",65.6,64.17,7.29,61.96
+223,Blanc de Blancs Brut 2019,3.9,339,22.75,Spain / Catalunya / Penedès,Raventós i Blanc,Spanish Cava,12.0,"40 Xarel-lo, 35 Macabeo, 20 Parellada, 5 Malvasia","['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif', 'Cured Meat']",40.19,46.29526972,9.05,58.38
+224,Goru Monastrell 2018,3.8,81,14.99,Spain / Murcia / Jumilla,EGO,Spanish Monastrell,14.0,Monastrell,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",58.28,68.47,11.42,54.26
+225,Vijariego Blanco 2020,4.2,27,32.0,Spain / Islas Canarias / Ycoden-Daute-Isora,Viñátigo,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+226,Cuvée de O Godello 2019,3.9,196,22.99,Spain / Galicia / Valdeorras,Avancia,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+227,Castelo do Papa Godello 2017,3.8,40,34.99,Spain / Galicia / Valdeorras,Ladera Sagrada,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+228,Mas d'En Compte Tinto 2012,3.9,187,30.0,Spain / Catalunya / Priorat,Cal Pla,Spanish Priorat Red,14.5,Cariñena,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,47.95,11.57,51.91
+229,PSI 2008,4.0,423,39.99,Spain / Castilla y León / Ribera del Duero,Dominio de Pingus,Spanish Ribera Del Duero Red,14.0,Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",63.99,56.13,9.12,60.4
+230,Laxas Albarino 2021,3.9,78,22.99,Spain / Galicia / Rías Baixas,As Laxas,Spanish Albariño,12.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",9.23,46.29526972,45.63,57.73
+231,Clio 2015,4.5,2762,39.95,Spain / Murcia / Jumilla,Bodegas El Nido,Spanish Red,15.5,"70 Monastrell, 30 Cabernet Sauvignon","['Beef', 'Pasta', 'Veal', 'Poultry']",71.09,40.34,17.75,41.89
+232,Single Vineyard Tempranillo 2018,4.0,1550,14.99,Spain / Castilla / La Mancha,Volver,Spanish Tempranillo,15.4,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",75.69,53.61,8.4,36.98
+233,Azul 2017,3.8,167,20.0,Spain / Navarra / Ribera del Queiles,Guelbenzu,Spanish Tempranillo,13.0,"77 Cabernet Sauvignon, 9 Graciano, 6 Tempranillo, 4 Shiraz/Syrah, 4 Merlot","['Beef', 'Lamb', 'Veal', 'Poultry']",68.11,44.92,14.86,45.26
+234,Viña Alberdi Reserva 2018,4.2,984,24.99,Spain / Rioja,La Rioja Alta,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.22,60.13,6.08,61.46
+235,Vendimia Seleccionada Listán Negro 2017,4.0,62,37.0,Spain / Islas Canarias / Ycoden-Daute-Isora,Ignios Orígenes,Spanish Red,13.5,100 Listan Negro,"['Beef', 'Pasta', 'Veal', 'Poultry']",52.52,35.88,9.4,50.59
+236,Sólo Tinto 2017,3.8,114,16.99,Spain / Valencia / Utiel-Requena,Aranleón,Spanish Red,14.0,"Shiraz/Syrah, Tempranillo, Bobal","['Beef', 'Pasta', 'Veal', 'Poultry']",65.75,39.11,0.5,44.72
+237,Cepa x Cepa Garnacha 2020,3.9,67,14.99,Spain / Navarra,Bodegas Nekeas,Spanish Grenache,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,43.76,13.16,47.26
+238,Legítim Crianza 2019,4.3,178,19.99,Spain / Catalunya / Priorat,De Muller,Spanish Priorat Red,14.5,"35 Cariñena, 35 Garnacha, 15 Shiraz/Syrah, 15 Merlot","['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",81.76,50.3,15.87,53.29
+239,Petillant Blanc (Vi d'Agulla) 2021,4.3,152,21.99,Spain / Catalunya,Avinyó,Spanish Sparkling,13.79454297,,"['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif']",39.78,46.29526972,9.05,54.16
+240,Fuerza 2013,3.8,2316,15.99,Spain / Murcia / Jumilla,EGO,Spanish Monastrell,14.5,100 Monastrell,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",58.24,68.01,11.26,54.31
+241,Mendi 2019,3.9,46,24.99,Spain / Rioja / Rioja Alavesa,Mendieta Osaba,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",55.5,59.67,7.51,57.46
+242,Gran Reserva 2013,3.8,457,25.99,Spain / Aragón / Cariñena,Monasterio de Las Vinas,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",64.2,42.23,6.39,46.84
+243,El Fanio Xarel-lo Penedès 2017,3.9,244,25.99,Spain / Catalunya / Penedès,Albet i Noya,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+244,Godello 2017,3.8,53,14.75,Spain / Galicia / Monterrei,Terras do Cigarrón,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+245,Laurentia 2018,3.8,797,23.25,Spain / Catalunya / Priorat,Cellers Unió,Spanish Priorat Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",75.47,50.22,2.37,53.16
+246,Hito Rosado 2020,3.8,124,19.99,Spain / Castilla y León / Ribera del Duero,Cepa 21,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+247,Reserva 2018,4.1,1089,30.98,Spain / Rioja,Muga,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",65.67,62.39,10.23,61.36
+248,Tragolargo Moscatel - Malvasia 2021,3.9,168,24.0,Spain / Valencia / Alicante,Vinessens - Casa Balaguer,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+249,Dominio de Valdelacasa Cosecha 2010,3.8,367,19.99,Spain / Castilla y León / Toro,Bodegas Frontaura,Spanish Toro Red,14.0,100 Tinta de toro,"['Beef', 'Lamb', 'Game (deer, venison)']",74.95,50.93,9.46,35.17
+250,Ultreia Saint Jacques Mencía 2019,3.9,922,17.94,Spain / Castilla y León / Bierzo,Raúl Pérez,Spanish Mencia,14.5,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",52.69,42.91,4.71,65.41
+251,Celeste Crianza 2017,3.9,4755,17.94,Spain / Castilla y León / Ribera del Duero,Pago del Cielo,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",64.82,54.25,8.02,60.93
+252,Efecte Classic Penedès Brut Reserva 2016,3.9,134,17.0,Spain / Catalunya / Penedès,Albet i Noya,Spanish Sparkling,12.0,"Chardonnay, Macabeo, Parellada","['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif']",42.46,46.29526972,9.05,47.93
+253,Naia 2017,3.8,592,12.09,Spain / Castilla y León / Rueda,Naia,Spanish Verdejo,13.5,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",22.55,46.29526972,21.49,52.93
+254,Mucho Más Blanco N.V.,4.0,9546,14.99,Spain / Castilla,Félix Solís,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+255,Ribera del Duero 2018,4.2,8866,29.99,Spain / Castilla y León / Ribera del Duero,Emilio Moro,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",64.95,54.48,10.63,60.67
+256,Cabriola 2017,3.9,229,17.99,Spain / Aragón,Borsao Bodegas,Spanish Red,15.5,100 Grenache,"['Beef', 'Pasta', 'Veal', 'Poultry']",64.16,46.47,22.1,47.08
+257,Clos d'en Ferran 2017,4.2,61,38.99,Spain / Catalunya / Priorat,Rolland & Galarreta 'R&G',Spanish Priorat Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",77.59,57.97,3.18,58.25
+258,Xiloca Garnacha 2019,3.9,166,11.99,Spain / Aragón / Calatayud,Bodega Sommos,Spanish Grenache,13.79454297,,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,37.48,4.81,43.24
+259,Maruxa Mencia 2018,3.8,133,15.95,Spain / Galicia / Valdeorras,Bodegas Virgen de Galir,Spanish Mencia,13.79454297,,"['Veal', 'Game (deer, venison)', 'Poultry']",54.23,39.02,7.57,66.62
+260,Mas Donís Old Vines 2017,3.8,481,14.99,Spain / Catalunya / Tarragona / Montsant,Celler de Capçanes,Spanish Montsant Red,14.0,"Shiraz/Syrah, Cariñena, Grenache","['Beef', 'Pasta', 'Lamb']",76.03,49.92,5.76,53.62
+261,Petit Pissarres 2017,3.9,612,28.99,Spain / Catalunya / Priorat,Costers del Priorat,Spanish Priorat Red,14.5,100 Garnacha,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",79.78,47.95,8.32,52.86
+262,Las Gravas 2016,4.0,256,39.94,Spain / Murcia / Jumilla,Casa Castillo,Spanish Rhône Blend Red,14.5,"70 Monastrell, 15 Shiraz/Syrah, 15 Garnacha","['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",84.85,61.51,10.59,66.47
+263,Rioja Reserva 2014,3.9,7339,16.99,Spain / Rioja,Ondarre,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.88,60.47,6.97,60.27
+264,Cava Reserva Brut 2018,4.1,197,22.99,Spain / Cava,Avinyó,Spanish Cava,12.0,Parellada,"['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif', 'Cured Meat']",41.97,46.29526972,9.05,59.83
+265,Parada de Atauta 2010,3.9,334,21.09,Spain / Castilla y León / Ribera del Duero,Dominio de Atauta,Spanish Ribera Del Duero Red,13.5,100 Tinto Fino,"['Beef', 'Lamb', 'Game (deer, venison)']",64.15,57.63,11.74,60.55
+266,Fincas de la Villa Rioja Crianza 2018,3.8,592,15.0,Spain / Rioja,Muriel,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",60.91,60.06,9.33,60.66
+267,Art Series Reserva 2015,3.8,2050,11.97,Spain / Rioja,Campo Viejo,Spanish Rioja Red,13.79454297,,[],61.73,46.29526972,9.05,53.555
+268,Fincas de la Villa Reserva 2016,3.9,58,21.99,Spain / Rioja,Muriel,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",61.63,64.11,3.9,64.02
+269,Pago de los Balagueses Syrah 2017,4.0,556,27.99,Spain / Valencia / Utiel-Requena,Vegalfaro,Spanish Syrah,14.5,100 Shiraz/Syrah,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",67.44,59.11,8.54,45.73
+270,Reserva 2013,3.8,243,19.99,Spain / Rioja,Montecillo,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",62.49,59.56,2.48,61.09
+271,Tarima Hill Old Vines Monastrell 2018,3.9,108,17.49,Spain / Valencia / Alicante,Volver,Spanish Monastrell,15.0,100 Monastrell,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",59.55,69.08,8.97,55.08
+272,Carrasviñas Rueda Verdejo 2020,3.9,511,18.33,Spain / Castilla y León / Rueda,Bodegas Félix Lorenzo Cachazo,Spanish Verdejo,13.2,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",27.42,46.29526972,22.0,50.48
+273,La Canya Mas Pellisser 2019,3.8,41,33.99,Spain / Vino de España,Oriol Artigas,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+274,Valtuille 2019,4.0,99,14.69,Spain / Castilla y León / Bierzo,César Márquez,Spanish Mencia,13.79454297,,"['Veal', 'Game (deer, venison)', 'Poultry']",53.24,40.68,9.05,55.09
+275,Covello Albariño 2015,3.9,34,21.5,Spain / Galicia / Rías Baixas,Lo Nuevo,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",61.73,46.29526972,77.18,56.68
+276,Verdejo Blanco 2018,3.8,134,15.99,Spain / Castilla y León / Rueda,Marqués de Irún,Spanish Verdejo,13.79454297,,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",24.85,46.29526972,22.9,53.22
+277,MR (Mountain Wine) 2014,3.9,203,36.99,Spain / Andalucía / Málaga,Telmo Rodriguez,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+278,Gratallops (Vi di la Vila) 2016,3.9,200,20.95,Spain / Catalunya / Priorat,Black Slate,Spanish Priorat Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,47.36,8.61,54.8
+279,Rioja Gran Reserva 2014,4.2,846,24.56,Spain / Rioja,Marqués de Cáceres,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",66.39,62.83,7.87,60.44
+280,Zerrán Tinto 2015,4.0,115,12.87,Spain / Catalunya / Tarragona / Montsant,Ordóñez,Spanish Montsant Red,13.79454297,,"['Beef', 'Pasta', 'Lamb']",79.08,51.35,4.06,56.52
+281,Rioja Crianza 2019,4.0,133,27.99,Spain / Rioja / Rioja Alavesa,Ostatu,Spanish Rioja Red,14.9,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",61.93,63.14,8.26,61.15
+282,50 Aniversario Edición Especial Reserva 2015,4.1,82,34.99,Spain / Rioja,El Coto,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",65.53,68.0,1.22,64.31
+283,Predicador Rioja 2014,3.9,1082,26.06,Spain / Rioja,Bodega Contador (Benjamín Romeo),Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",65.3,62.53,12.5,59.35
+284,Depadre 2013,4.3,31,36.0,Spain / Rioja,San Prudencio,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",69.64,67.35,4.61,65.7
+285,Altos de la Hoya Monastrell 2019,3.9,296,14.99,Spain / Murcia / Jumilla,Olivares,Spanish Monastrell,14.5,100 Mourvedre,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",58.75,70.81,10.34,55.51
+286,GR-10 Tinto 2018,3.8,261,24.99,Spain / Madrid,4 Monos,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",59.26,45.06,8.54,56.41
+287,El Oso Y La Alemana Blanco 2020,4.1,207,22.42,Spain / Castilla y León,Màquina y Tabla,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+288,Cava Reserva Brut 2019,4.0,254,18.99,Spain / Cava,Mont Marçal,Spanish Cava,13.79454297,,"['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif', 'Cured Meat']",40.52,46.29526972,9.05,57.19
+289,Tres Picos Garnacha 2019,4.0,1734,16.99,Spain / Aragón / Campo de Borja,Borsao Bodegas,Spanish Grenache,15.5,100 Grenache,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,38.68,12.29,44.68
+290,Jumilla Silver Label 2019,4.0,5657,12.99,Spain / Murcia / Jumilla,Juan Gil,Spanish Monastrell,15.0,100 Monastrell,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)']",59.89,67.52,15.24,53.15
+291,El Pajaro Rojo Mencia 2019,3.9,435,23.99,Spain / Castilla y León / Bierzo,Losada,Spanish Mencia,13.8,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",55.1,39.51,5.34,63.69
+292,Atxa Vermouth Rojo N.V.,4.1,31,26.99,Spain / País Vasco,Manuel Acha,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+293,Reciente Reserva 2017,3.8,525,13.99,Spain / Rioja,Bodegas Olarra,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",56.3,54.53,19.97,53.67
+294,Trenzado 2020,3.9,265,25.99,Spain / Islas Canarias / Valle de la Orotava,Suertes del Marqués,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+295,Los Conejos Malditos Tempranillo Carbónico 2019,3.8,243,14.99,Spain / Vino de España,Más Que Vinos,Spanish Tempranillo,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",75.76,58.61,3.63,38.95
+296,Rioja 2012,4.0,91,21.0,Spain / Rioja,Bodegas Vinsacro,Spanish Rioja Red,14.0,"Bobal, Garnacha, Tempranillo, Mazuelo, Monastrell","['Beef', 'Lamb', 'Veal', 'Poultry']",66.53,66.81,11.98,62.58
+297,Sotorrondero 2019,3.9,88,30.99,Spain / Castilla / Méntrida,Jiménez-Landi,Spanish Red,14.5,100 Shiraz/Syrah,"['Beef', 'Pasta', 'Veal', 'Poultry']",53.92,40.09,8.0,44.46
+298,San Emilio Pedro Ximénez Sherry (Solera Reserva) N.V.,4.1,3051,28.99,Spain / Andalucía / Jerez-Xérès-Sherry / Pedro Ximénez Sherry (PX),Lustau,Spanish Pedro Ximenez,17.0,100 Pedro Ximenez,"['Sweet desserts', 'Blue cheese']",85.0,46.29526972,85.0,43.48
+299,Bristol Cream Solera Sherry N.V.,3.8,407,18.99,Spain / Andalucía / Jerez-Xérès-Sherry,Harveys,Spanish Sherry,13.79454297,,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",66.78,46.29526972,73.75,64.13
+300,Rosado 2018,4.0,165,12.0,Spain / Castilla y León / Bierzo,Liquid Geography,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+301,La Resistencia 2018,4.1,170,26.67,Spain / Castilla y León,Micro Bio (MicroBio),Spanish Verdejo,13.79454297,,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",22.39,46.29526972,25.23,53.93
+302,Tempranillo 2020,3.8,209,19.99,Spain / Castilla y León / Ribera del Duero,Torremorón,Spanish Ribera Del Duero Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",65.65,60.02,2.95,64.85
+303,Albariño 2017,3.9,157,20.52,Spain / Galicia / Rías Baixas,Compañía de Vinos Tricó,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",14.97,46.29526972,37.67,59.95
+304,Salmos 2017,4.2,1700,34.94,Spain / Catalunya / Priorat,Familia Torres,Spanish Priorat Red,14.5,100 Shiraz/Syrah,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,48.46,10.91,54.33
+305,Otazu Premium Cuvée 2016,3.9,646,10.99,Spain / Navarra,Bodega Otazu,Spanish Red,14.5,"Merlot, Cabernet Sauvignon","['Beef', 'Pasta', 'Veal', 'Poultry']",64.68,45.37,8.09,46.28
+306,A Torna Dos Pasas Ribeiro 2015,3.9,249,30.0,Spain / Galicia / Ribeiro,Luis A. Rodriguez Vazquez,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",51.05,38.68,9.08,52.31
+307,Díaz Bayo 20 Meses Reserva 2015,4.1,85,36.99,Spain / Castilla y León / Ribera del Duero,Bodegas Diaz Bayo,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",61.41,53.31,13.41,51.16
+308,Viñas Viejas Garnacha 2017,3.8,362,19.99,Spain / Aragón / Calatayud,Las Rocas,Spanish Grenache,15.0,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,39.46,10.88,45.11
+309,Flor de Morca 2019,4.0,832,16.99,Spain / Aragón / Campo de Borja,Morca,Spanish Grenache,15.5,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",71.26,46.08,20.39,45.05
+310,Txakoli Getariako Txakolina 2021,4.0,374,22.99,Spain / País Vasco / Getariako Txakolina,Txomin Etxaniz,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+311,Don PX Pedro Ximenez 2017,4.1,314,24.99,Spain / Andalucía / Montilla-Moriles,Toro Albalá,Spanish Pedro Ximenez,17.0,100 Pedro Ximenez,"['Sweet desserts', 'Blue cheese']",85.0,46.29526972,85.0,42.59
+312,Perill Noir Carinyena 2016,4.0,130,35.17,Spain / Catalunya / Penedès,Clos Lentiscus,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",59.94,45.69,8.78,59.54
+313,Perill Noir Carinyena 2017,4.1,85,38.42,Spain / Catalunya / Penedès,Clos Lentiscus,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",59.94,45.69,8.78,59.54
+314,No. 2 Victoria 2018,4.4,107,24.99,Spain / Andalucía / Málaga,Jorge Ordóñez,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+315,Portal (Nuestra Senora) 2016,3.8,48,27.99,Spain / Catalunya / Terra Alta,Celler Piñol,Spanish Red,14.0,"70 Garnacha, 15 Shiraz/Syrah, 15 Cariñena","['Beef', 'Pasta', 'Veal', 'Poultry']",61.5,45.0,7.23,51.44
+316,No. 12 Selección Especial 2015,4.0,732,19.97,Spain / Valencia,Venta del Puerto,Spanish Red,13.79454297,,"['Beef', 'Pasta', 'Veal', 'Poultry']",68.36,46.74,16.58,44.09
+317,Peza do Rei Ribeira Sacra Blanco 2017,3.8,31,19.99,Spain / Galicia / Ribeira Sacra,Cachin,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+318,Granbazán Etiqueta Verde Albariño 2021,4.0,337,26.99,Spain / Galicia / Rías Baixas,Agro de Bazán,Spanish Albariño,12.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",10.22,46.29526972,42.96,60.73
+319,Albariño 2020,4.1,458,16.99,Spain / Galicia / Rías Baixas,Ethereo,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",3.22,46.29526972,58.42,56.06
+320,Pétalos 2019,3.8,2496,19.99,Spain / Castilla y León / Bierzo,Descendientes de J. Palacios,Spanish Mencia,13.5,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",53.03,41.87,5.33,64.64
+321,Herenza 2019,4.0,51,17.99,Spain / Rioja,Elvi,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",54.58,58.53,13.73,62.53
+322,Garnacha 2019,3.8,59,20.99,Spain / Aragón / Calatayud,Breca,Spanish Grenache,15.0,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,40.93,8.34,44.3
+323,Baboix Blanc 2012,3.8,91,19.75,Spain / Catalunya / Tarragona / Montsant,Buil & Giné,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+324,La Misión 2017,4.1,185,27.99,Spain / Castilla y León,Menade,Spanish Verdejo,13.0,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",29.49,46.29526972,23.6,44.62
+325,Garnacha 2017,3.8,1493,11.99,Spain / Aragón / Calatayud,Las Rocas,Spanish Grenache,15.0,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,39.59,4.47,46.11
+326,Tempranillo 2018,4.0,81,18.99,Spain / Castilla y León,Tridente,Spanish Tempranillo,15.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",79.97,62.98,5.83,33.56
+327,Encinas 2018,3.8,195,39.99,Spain / Castilla y León / Bierzo,Raúl Pérez,Spanish Mencia,13.0,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",57.52,44.41,7.52,64.61
+328,Selección de Fincas 2017,3.9,798,32.99,Spain / Castilla y León / Ribera del Duero,Cune (CVNE),Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",59.03,55.41,10.87,57.73
+329,Rioja Gran Reserva 2010,3.9,3941,39.99,Spain / Rioja,Montecillo,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.08,59.68,6.79,61.28
+330,Viña Matalián Blanco Seco 2019,3.9,45,25.99,Spain / Andalucía / Cádiz,Primitivo Collantes,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+331,Triton Tinta de Toro 2018,3.8,256,26.99,Spain / Castilla y León / Toro,Tridente,Spanish Toro Red,15.0,100 Tempranillo,"['Beef', 'Lamb', 'Game (deer, venison)']",77.87,52.18,9.4,34.62
+332,Señorío de P. Peciña Crianza 2015,3.9,386,22.99,Spain / Rioja,Hermanos Peciña,Spanish Rioja Red,14.2,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.17,58.99,3.43,61.5
+333,VO CAL 2017,3.9,107,39.0,Spain / Castilla y León / Bierzo,Veronica Ortega,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+334,Rias Baixas Albariño 2019,4.1,600,28.0,Spain / Galicia / Rías Baixas,Do Ferreiro (Bodegas Gerardo Mendez),Spanish Albariño,12.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",12.93,46.29526972,40.3,60.7
+335,Embruix 2019,4.1,712,24.99,Spain / Catalunya / Priorat,Vall Llach,Spanish Priorat Red,15.5,"29 Garnacha, 28 Cariñena, 22 Merlot, 14 Shiraz/Syrah, 7 Cabernet Sauvignon","['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,50.15,10.43,54.04
+336,Finca el Curvado 2017,4.0,213,37.87,Spain / Galicia / Ribeira Sacra,Castro Candaz,Spanish Mencia,13.5,"85 Mencia, 15 Alicante Bouschet","['Veal', 'Game (deer, venison)', 'Poultry']",48.26,41.84,5.86,64.69
+337,Coto de Hayas Garnacha Centenaria 2014,3.9,1592,16.99,Spain / Aragón / Campo de Borja,Bodegas Aragonesas,Spanish Grenache,14.5,100 Grenache,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",84.97,38.48,12.52,44.64
+338,Diez Almendros 2019,4.0,40,21.99,Spain / Castilla y León / Ribera del Duero,Vega Clara,Spanish Ribera Del Duero Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)']",63.61,61.49,4.28,54.64
+339,Valderroa Carballo Mencia 2016,3.8,36,23.99,Spain / Galicia / Valdeorras,Valdesil,Spanish Mencia,13.0,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",61.53,44.49,9.28,59.14
+340,Otazu Premium Cuvée 2018,4.0,626,19.83,Spain / Navarra,Bodega Otazu,Spanish Red,14.0,"42 Cabernet Sauvignon, 33 Tempranillo, 25 Merlot","['Beef', 'Pasta', 'Veal', 'Poultry']",64.68,45.37,8.09,46.28
+341,Reserva 2014,3.8,994,29.99,Spain / Rioja,Altos Ibéricos,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",60.92,63.02,7.13,58.66
+342,Moscatel Pasas N.V.,3.9,237,21.99,Spain / Andalucía / Jerez-Xérès-Sherry,César Florido,Spanish Sherry,13.79454297,,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",70.32,46.29526972,74.0,65.12
+343,Duquesa de la Victoria de Valdelana Reserva 2013,3.9,52,17.95,Spain / Rioja,Bodegas Valdelana,Spanish Rioja Red,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.83,64.93,6.07,59.47
+344,Alaya Tierra (Old Vines Vieilles Vignes) 2019,4.4,1041,35.99,Spain / Castilla / Almansa,Atalaya,Spanish Grenache,14.5,100 Garnacha Tintorera,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,44.46,28.06,42.63
+345,Castiñeira Albariño 2021,3.8,47,20.99,Spain / Galicia / Rías Baixas,Lagar de Pintos,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",6.15,46.29526972,54.17,57.45
+346,Single Vineyards El Vergal Tempranillo 2018,3.8,1656,12.99,Spain / Aragón / Calatayud,San Gregorio,Spanish Tempranillo,13.79454297,,"['Beef', 'Lamb', 'Veal', 'Poultry']",77.42,60.37,2.56,34.68
+347,Cream Sherry N.V.,3.8,64,14.99,Spain / Andalucía / Jerez-Xérès-Sherry,Hartley & Gibson's,Spanish Sherry,13.79454297,,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",68.07,46.29526972,69.57,65.2
+348,No. 2 White Sangria Frizzante N.V.,3.9,1589,14.99,Spain / Aragón,Lolea,Spanish Sparkling,7.0,"Chardonnay, Macabeo","['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif']",40.47,46.29526972,9.05,44.7
+349,Mencia 2019,3.8,255,26.51,Spain / Galicia / Ribeira Sacra,Castro Candaz,Spanish Mencia,13.0,100 Mencia,"['Veal', 'Game (deer, venison)', 'Poultry']",47.37,39.66,9.05,59.6
+350,Escaladei (Vi di la Vila) 2018,4.0,144,21.99,Spain / Catalunya / Priorat,Black Slate,Spanish Priorat Red,13.79454297,,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",84.07,51.02,5.38,57.12
+351,Finca Arantei Single Vineyard Albariño 2020,4.0,83,26.99,Spain / Galicia / Rías Baixas,La Val,Spanish Albariño,12.5,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",5.89,46.29526972,52.67,57.22
+352,Isabela Cream Sherry N.V.,4.0,677,21.99,Spain / Andalucía / Jerez-Xérès-Sherry,Valdespino,Spanish Sherry,17.5,100 Palomino,"['Mature and hard cheese', 'Appetizers and snacks', 'Aperitif', 'Cured Meat']",67.3,46.29526972,69.93,60.76
+353,Zarihs Syrah 2017,4.1,1662,24.49,Spain / Aragón / Campo de Borja,Borsao Bodegas,Spanish Syrah,14.0,100 Shiraz/Syrah,"['Beef', 'Lamb', 'Game (deer, venison)', 'Poultry']",69.35,56.71,15.26,43.75
+354,Crianza Rioja 2016,3.9,16781,19.99,Spain / Rioja,Ramón Bilbao,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",61.36,58.29,11.37,57.07
+355,Rioja Reserva 2010,4.1,2141,19.98,Spain / Rioja,Imperial,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.35,60.14,9.51,60.06
+356,Gran Reserva 2014,4.0,2074,24.99,Spain / Rioja,Campo Viejo,Spanish Rioja Red,13.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.23,58.95,7.22,60.97
+357,Cuvée Especial Albariño 2020,3.9,57,23.99,Spain / Galicia / Rías Baixas,Chan de Rosas,Spanish Albariño,13.0,100 Albariño,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",12.86,46.29526972,37.18,60.22
+358,Hito Rosado 2020,3.8,124,19.99,Spain / Castilla y León / Ribera del Duero,Cepa 21,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+359,Reserva Rioja 2014,4.0,162,36.99,Spain / Rioja,Obalo,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",64.66,66.3,10.6,60.32
+360,42 Zura 2019,4.2,66,28.99,Spain / País Vasco / Bizkaiko Txakolina,Gorka Izagirre,,13.79454297,,[],61.73,46.29526972,9.05,53.555
+361,La Caprichosa Verdejo 2019,4.0,674,17.14,Spain / Castilla y León / Rueda,Palacio de Bornos,Spanish Verdejo,13.5,100 Verdejo,"['Pork', 'Shellfish', 'Vegetarian', 'Cured Meat']",32.45,46.29526972,26.05,53.11
+362,Reserva Rioja (Finca Ygay) 2016,4.2,9918,28.97,Spain / Rioja,Marqués de Murrieta,Spanish Rioja Red,14.5,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",63.99,59.42,9.16,60.24
+363,Cuvée Especial Albariño 2015,3.8,180,16.97,Spain / Galicia / Rías Baixas,Chan de Rosas,Spanish Albariño,13.79454297,,"['Pasta', 'Shellfish', 'Vegetarian', 'Appetizers and snacks', 'Lean fish']",12.86,46.29526972,37.18,60.22
+364,Cuvée Especial Ice Rosé N.V.,3.8,1775,15.99,Spain / Cava,Freixenet,Spanish Cava,11.5,"Pinot Noir, Garnacha, Chardonnay, Grenache","['Shellfish', 'Appetizers and snacks', 'Lean fish', 'Aperitif', 'Cured Meat']",37.47,46.29526972,9.05,48.67
+365,Cerro Añon Reserva Rioja 2017,4.0,570,19.99,Spain / Rioja,Bodegas Olarra,Spanish Rioja Red,14.0,100 Tempranillo,"['Beef', 'Lamb', 'Veal', 'Poultry']",66.74,61.44,6.98,61.2
+366,Veraton Garnacha 2018,4.2,1999,26.94,Spain / Aragón / Campo de Borja,Alto Moncayo,Spanish Grenache,15.0,100 Garnacha,"['Beef', 'Pasta', 'Lamb', 'Game (deer, venison)', 'Poultry']",85.0,39.64,12.77,45.06
+367,Godelia Mencía 2018,3.8,75,23.8,Spain / Castilla y León / Bierzo,Bodegas Godelia,Spanish Mencia,13.79454297,,"['Veal', 'Game (deer, venison)', 'Poultry']",56.99,42.0,5.65,64.97
+368,No. 2 Victoria 2014,4.3,292,29.99,Spain / Andalucía / Málaga,Jorge Ordóñez,,13.79454297,,[],61.73,46.29526972,9.05,53.555

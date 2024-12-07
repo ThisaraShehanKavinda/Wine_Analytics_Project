@@ -5,6 +5,7 @@ import pandas as pd
 import dash_bootstrap_components as dbc
 import plotly.express as px
 import plotly.graph_objects as go
+
 import plotly.colors as pcolors
 
 # Paths to data
@@ -40,6 +41,40 @@ app.title = "Wine Analytics Dashboard"
 
 app.layout = html.Div(
     children=[
+=======
+
+
+data_path = "data/processed/process_wine_data.csv"
+wine_df = pd.read_csv(data_path)
+
+
+nlp_data_path = r"data/reviews/wine_reviews_with_labels.csv"
+nlp_wine_df = pd.read_csv(nlp_data_path)
+
+
+category_counts = nlp_wine_df["talks_about"].value_counts()
+
+
+nlp_bar_fig = go.Figure([go.Bar(
+    x=category_counts.index,
+    y=category_counts.values,
+    marker=dict(color='skyblue')
+)])
+nlp_bar_fig.update_layout(
+    title="Distribution of Review Categories from NLP",
+    xaxis_title="Category",
+    yaxis_title="Count"
+)
+
+
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])  
+app.title = "Wine Analytics Dashboard"
+
+
+app.layout = html.Div(
+    children=[
+        
+
         html.Div(
             children=[
                 html.Div(
@@ -82,6 +117,8 @@ app.layout = html.Div(
                 "marginBottom": "20px"
             }
         ),
+
+
 
         html.Div([
             html.Button("Toggle Filters", id="filter-toggle", style={
@@ -129,6 +166,7 @@ app.layout = html.Div(
             )
         ]),
 
+
         dcc.Tabs([
             dcc.Tab(label="Price Analysis", children=[
                 dcc.Graph(id='price-histogram', style={'padding': '20px'}),
@@ -140,7 +178,7 @@ app.layout = html.Div(
             ]),
             dcc.Tab(label="Wine Styles", children=[
                 dcc.Graph(id='wine-style-pie', style={'padding': '20px'})
-            ]),
+
             dcc.Tab(label="NLP Analysis", children=[
                 dcc.Graph(id='nlp-bar-chart', figure=nlp_bar_fig, style={'padding': '20px'})
             ])
@@ -165,6 +203,7 @@ def toggle_filters(n_clicks):
     else:
         return {"display": "none"}
 
+
 @app.callback(
     [Output('price-histogram', 'figure'),
      Output('ratings-scatter', 'figure'),
@@ -185,6 +224,7 @@ def update_charts(selected_countries, selected_styles, price_range):
     if selected_styles:
         filtered_df = filtered_df[filtered_df['Wine style'].isin(selected_styles)]
 
+
     hist_fig = px.histogram(
         filtered_df, x='Price', color='Country',
         title="Price Distribution by Country",
@@ -192,11 +232,13 @@ def update_charts(selected_countries, selected_styles, price_range):
     )
     hist_fig.update_layout(transition_duration=500)
 
+
     scatter_fig = px.scatter_3d(
         filtered_df, x='Price', y='Rating', z='Number of Ratings',
         color='Country', title="Ratings vs Price",
         hover_name='Name'
     )
+
 
     food_counts = filtered_df['Food pairings'].explode().value_counts()
     bar_fig = px.bar(
@@ -205,15 +247,28 @@ def update_charts(selected_countries, selected_styles, price_range):
         text_auto=True, color=food_counts.values, color_continuous_scale='Viridis'
     )
 
+    
     box_fig = px.box(
         filtered_df, x='Country', y='Alcohol content', color='Country',
         title="Alcohol Content by Country", color_discrete_sequence=px.colors.qualitative.Safe
+
     )
 
     pie_fig = px.pie(
         filtered_df, names='Wine style', title="Wine Style Distribution",
         color_discrete_sequence=px.colors.sequential.RdBu
     )
+
+    )
+
+    
+    pie_fig = px.pie(
+        filtered_df, names='Wine style', title="Wine Style Distribution",
+        color_discrete_sequence=px.colors.sequential.RdBu
+    )
+
+    return hist_fig, scatter_fig, bar_fig, box_fig, pie_fig
+
 
     return hist_fig, scatter_fig, bar_fig, box_fig, pie_fig
 
