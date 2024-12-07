@@ -7,22 +7,22 @@ import plotly.express as px
 import plotly.graph_objects as go
 import plotly.colors as pcolors
 
-# Paths to data
+
 data_path = "data/processed/process_wine_data.csv"
 wine_df = pd.read_csv(data_path)
 
 nlp_data_path = r"data/reviews/wine_reviews_with_labels.csv"
 nlp_wine_df = pd.read_csv(nlp_data_path)
 
-# NLP Analysis Data
+
 category_counts = nlp_wine_df["talks_about"].value_counts()
 
-# Generate unique colors for the bar chart
+
 unique_colors = pcolors.qualitative.Set3
 num_categories = len(category_counts)
 bar_colors = unique_colors * (num_categories // len(unique_colors)) + unique_colors[:num_categories % len(unique_colors)]
 
-# NLP Bar Chart
+
 nlp_bar_fig = go.Figure([go.Bar(
     x=category_counts.index,
     y=category_counts.values,
@@ -34,7 +34,7 @@ nlp_bar_fig.update_layout(
     yaxis_title="Count"
 )
 
-# Dash App Initialization
+
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])
 app.title = "Wine Analytics Dashboard"
 
